@@ -1,0 +1,2364 @@
+[
+  {
+    "id": "500-years-of-joseon-dynasty",
+    "title": "조선왕조 오백년",
+    "titleEn": "500 Years of Joseon Dynasty",
+    "year": 1983,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 613,
+    "director": "이병훈",
+    "cast": [
+      "이순재",
+      "김무생",
+      "김영란"
+    ],
+    "synopsis": "조선왕조 500년의 역사를 시리즈로 다룬 대하드라마. 추동궁 마마, 설중매, 파문, 임진왜란, 풍란, 대원군 등으로 구성되었다.",
+    "period": "joseon-general"
+  },
+  {
+    "id": "the-first-republic",
+    "title": "제1공화국",
+    "titleEn": "The First Republic",
+    "year": 1981,
+    "type": "drama",
+    "era": "현대사",
+    "network": "MBC",
+    "episodes": 39,
+    "director": "이주환",
+    "cast": [
+      "노주현",
+      "이대근",
+      "이순재"
+    ],
+    "synopsis": "해방 이후 대한민국 제1공화국 시기의 정치적 격변을 그린 시대극으로 MBC 공화국 시리즈의 첫 번째 작품이다.",
+    "period": "modern-liberation"
+  },
+  {
+    "id": "the-second-republic",
+    "title": "제2공화국",
+    "titleEn": "The Second Republic",
+    "year": 1989,
+    "type": "drama",
+    "era": "현대사",
+    "network": "MBC",
+    "episodes": 30,
+    "director": "이주환",
+    "cast": [
+      "이대근",
+      "노주현"
+    ],
+    "synopsis": "4.19 혁명 이후 제2공화국 시기의 정치적 혼란을 그린 MBC 공화국 시리즈의 두 번째 작품이다.",
+    "period": "modern-republic"
+  },
+  {
+    "id": "the-third-republic",
+    "title": "제3공화국",
+    "titleEn": "The Third Republic",
+    "year": 1993,
+    "type": "drama",
+    "era": "현대사",
+    "network": "MBC",
+    "episodes": 26,
+    "director": "이주환",
+    "cast": [
+      "이덕화",
+      "이대근"
+    ],
+    "synopsis": "5.16 군사 쿠데타 이후 박정희 정권의 제3공화국 시기를 그린 정치 드라마이다.",
+    "period": "modern-republic"
+  },
+  {
+    "id": "the-fourth-republic",
+    "title": "제4공화국",
+    "titleEn": "The Fourth Republic",
+    "year": 1995,
+    "type": "drama",
+    "era": "현대사",
+    "network": "MBC",
+    "episodes": 37,
+    "director": "이주환",
+    "cast": [
+      "이창환",
+      "이대근"
+    ],
+    "synopsis": "유신 체제 하의 제4공화국 시기를 다룬 MBC 공화국 시리즈의 네 번째 작품이다.",
+    "period": "modern-republic"
+  },
+  {
+    "id": "the-fifth-republic",
+    "title": "제5공화국",
+    "titleEn": "The Fifth Republic",
+    "year": 2005,
+    "type": "drama",
+    "era": "현대사",
+    "network": "MBC",
+    "episodes": 41,
+    "director": "임태우",
+    "cast": [
+      "이덕화",
+      "서인석",
+      "이창환"
+    ],
+    "synopsis": "12.12 군사 반란과 5.18 광주 민주화 운동을 포함한 전두환 정권 시기의 정치적 격변을 그린 드라마이다.",
+    "period": "modern-republic"
+  },
+  {
+    "id": "drama-6",
+    "title": "대명",
+    "titleEn": null,
+    "year": 1981,
+    "type": "drama",
+    "era": "고려",
+    "network": "KBS",
+    "episodes": 52,
+    "director": null,
+    "cast": null,
+    "synopsis": "KBS 대하드라마 시리즈의 첫 번째 작품으로 고려 시대를 배경으로 한 정통 사극이다.",
+    "period": "goryeo-early"
+  },
+  {
+    "id": "drama-7",
+    "title": "풍운",
+    "titleEn": null,
+    "year": 1982,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 52,
+    "director": null,
+    "cast": null,
+    "synopsis": "KBS 대하드라마 시리즈의 두 번째 작품이다.",
+    "period": "joseon-general"
+  },
+  {
+    "id": "drama-8",
+    "title": "개국",
+    "titleEn": null,
+    "year": 1983,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 52,
+    "director": null,
+    "cast": null,
+    "synopsis": "조선 건국 과정을 다룬 KBS 대하드라마 시리즈의 세 번째 작품이다.",
+    "period": "joseon-taejo"
+  },
+  {
+    "id": "drama-9",
+    "title": "독립문",
+    "titleEn": null,
+    "year": 1984,
+    "type": "drama",
+    "era": "구한말",
+    "network": "KBS",
+    "episodes": 52,
+    "director": null,
+    "cast": null,
+    "synopsis": "구한말 독립운동을 배경으로 한 KBS 대하드라마 시리즈의 네 번째 작품이다.",
+    "period": "daehan-empire"
+  },
+  {
+    "id": "drama-10",
+    "title": "조선총독부",
+    "titleEn": null,
+    "year": 1984,
+    "type": "drama",
+    "era": "일제강점기",
+    "network": "MBC",
+    "episodes": null,
+    "director": null,
+    "cast": null,
+    "synopsis": "일제강점기 조선총독부의 식민 통치를 다룬 시대극이다.",
+    "period": "japanese-march"
+  },
+  {
+    "id": "drama-11",
+    "title": "바람과 구름과 비",
+    "titleEn": null,
+    "year": 1989,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 53,
+    "director": null,
+    "cast": [
+      "박상원",
+      "이덕화"
+    ],
+    "synopsis": "조선 철종 시대를 배경으로 권력과 운명의 소용돌이 속 인물들을 그린 대하사극이다.",
+    "period": "joseon-sunjo"
+  },
+  {
+    "id": "drama-12",
+    "title": "파천무",
+    "titleEn": null,
+    "year": 1990,
+    "type": "drama",
+    "era": "고려",
+    "network": "KBS",
+    "episodes": 50,
+    "director": null,
+    "cast": [
+      "최수종",
+      "서인석"
+    ],
+    "synopsis": "고려 시대를 배경으로 한 정통 사극 대하드라마이다.",
+    "period": "goryeo-early"
+  },
+  {
+    "id": "drama-13",
+    "title": "대원군",
+    "titleEn": null,
+    "year": 1990,
+    "type": "drama",
+    "era": "구한말",
+    "network": "MBC",
+    "episodes": null,
+    "director": null,
+    "cast": null,
+    "synopsis": "조선 말기 흥선대원군의 정치적 삶을 그린 MBC 조선왕조오백년 시리즈의 마지막 작품이다.",
+    "period": "daehan-empire"
+  },
+  {
+    "id": "drama-14",
+    "title": "삼국기",
+    "titleEn": null,
+    "year": 1992,
+    "type": "drama",
+    "era": "삼국시대",
+    "network": "KBS",
+    "episodes": 52,
+    "director": null,
+    "cast": null,
+    "synopsis": "삼국시대의 역사를 다룬 KBS 대하드라마이다.",
+    "period": "goguryeo"
+  },
+  {
+    "id": "drama-15",
+    "title": "한명회",
+    "titleEn": null,
+    "year": 1994,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 62,
+    "director": null,
+    "cast": [
+      "이덕화"
+    ],
+    "synopsis": "조선 초기 권신 한명회의 정치적 삶을 그린 정통 사극이다.",
+    "period": "joseon-sejo"
+  },
+  {
+    "id": "sandglass",
+    "title": "모래시계",
+    "titleEn": "Sandglass",
+    "year": 1995,
+    "type": "drama",
+    "era": "현대사",
+    "network": "SBS",
+    "episodes": 24,
+    "director": "김종학",
+    "cast": [
+      "최민수",
+      "고현정",
+      "박상원"
+    ],
+    "synopsis": "1970~80년대 격동기를 배경으로 세 남녀의 운명적 만남과 갈등을 그린 시대극이다.",
+    "period": "modern-republic"
+  },
+  {
+    "id": "drama-17",
+    "title": "장녹수",
+    "titleEn": null,
+    "year": 1995,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 58,
+    "director": "이영국",
+    "cast": [
+      "김혜수"
+    ],
+    "synopsis": "연산군의 총애를 받은 희대의 요녀 장녹수의 파란만장한 삶을 그린 사극이다.",
+    "period": "joseon-yeonsangun"
+  },
+  {
+    "id": "jang-hui-bin",
+    "title": "장희빈 (1995)",
+    "titleEn": "Jang Hui-bin",
+    "year": 1995,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 60,
+    "director": null,
+    "cast": [
+      "정선경",
+      "전인화"
+    ],
+    "synopsis": "숙종의 후궁 장희빈과 인현왕후의 치열한 궁중 암투를 그린 사극이다.",
+    "period": "joseon-sukjong"
+  },
+  {
+    "id": "drama-19",
+    "title": "서궁",
+    "titleEn": null,
+    "year": 1995,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 50,
+    "director": null,
+    "cast": null,
+    "synopsis": "조선시대 왕실 여인들의 삶과 궁중 권력 다툼을 그린 사극이다.",
+    "period": "joseon-sejo"
+  },
+  {
+    "id": "drama-20",
+    "title": "조광조",
+    "titleEn": null,
+    "year": 1996,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 50,
+    "director": null,
+    "cast": null,
+    "synopsis": "조선 중종 시대 개혁 정치가 조광조의 이상과 좌절을 그린 사극이다.",
+    "period": "joseon-yeonsangun"
+  },
+  {
+    "id": "tears-of-the-dragon",
+    "title": "용의 눈물",
+    "titleEn": "Tears of the Dragon",
+    "year": 1996,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 159,
+    "director": "김재형",
+    "cast": [
+      "유동근",
+      "김무생",
+      "최명길"
+    ],
+    "synopsis": "조선 건국 과정과 태조 이성계, 태종 이방원의 권력 투쟁을 그린 대하드라마로 이환경 작가 사극 시리즈 제1부이다.",
+    "period": "joseon-taejo"
+  },
+  {
+    "id": "im-kkeok-jeong",
+    "title": "임꺽정",
+    "titleEn": "Im Kkeok-jeong",
+    "year": 1996,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 44,
+    "director": "김한영",
+    "cast": [
+      "정흥채"
+    ],
+    "synopsis": "벽초 홍명희의 소설 원작으로 조선 명종 시대 의적 임꺽정의 삶을 그린 사극이다.",
+    "period": "joseon-injong"
+  },
+  {
+    "id": "king-and-queen",
+    "title": "왕과 비",
+    "titleEn": "King and Queen",
+    "year": 1998,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 186,
+    "director": null,
+    "cast": [
+      "안재모",
+      "채시라"
+    ],
+    "synopsis": "조선 세조에서 성종 시대까지의 궁중 정치와 왕실 이야기를 그린 대하드라마이다.",
+    "period": "joseon-sejo"
+  },
+  {
+    "id": "heo-jun",
+    "title": "허준",
+    "titleEn": "Heo Jun",
+    "year": 1999,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 64,
+    "director": "이병훈",
+    "cast": [
+      "전광렬",
+      "황수정",
+      "홍충민"
+    ],
+    "synopsis": "조선 최고의 명의 허준의 일대기를 그린 드라마로 최고 시청률 63%를 기록한 국민 드라마이다.",
+    "period": "joseon-seonjo"
+  },
+  {
+    "id": "king-wang-geon",
+    "title": "태조 왕건",
+    "titleEn": "King Wang Geon",
+    "year": 2000,
+    "type": "drama",
+    "era": "고려",
+    "network": "KBS",
+    "episodes": 200,
+    "director": "김종선",
+    "cast": [
+      "최수종",
+      "김영철",
+      "서인석"
+    ],
+    "synopsis": "후삼국 시대를 배경으로 고려를 건국한 왕건의 일대기와 궁예, 견훤과의 대립을 그린 대하드라마이다.",
+    "period": "goryeo-early"
+  },
+  {
+    "id": "sangdo-merchants-of-joseon",
+    "title": "상도",
+    "titleEn": "Sangdo, Merchants of Joseon",
+    "year": 2001,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 50,
+    "director": "이병훈",
+    "cast": [
+      "이재룡",
+      "김현주"
+    ],
+    "synopsis": "조선시대 거상 임상옥의 이야기를 통해 장사의 도리와 상도를 그린 드라마이다.",
+    "period": "joseon-sukjong"
+  },
+  {
+    "id": "ladies-of-the-palace",
+    "title": "여인천하",
+    "titleEn": "Ladies of the Palace",
+    "year": 2001,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 150,
+    "director": "김재형",
+    "cast": [
+      "전인화",
+      "강수연",
+      "도지원"
+    ],
+    "synopsis": "조선 중종 시대 정난정과 문정왕후의 궁중 권력 투쟁을 그린 대하사극이다.",
+    "period": "joseon-yeonsangun"
+  },
+  {
+    "id": "age-of-warriors",
+    "title": "야인시대",
+    "titleEn": "Age of Warriors",
+    "year": 2002,
+    "type": "drama",
+    "era": "일제강점기",
+    "network": "SBS",
+    "episodes": 124,
+    "director": "장형일",
+    "cast": [
+      "김영철",
+      "안재모",
+      "이원종"
+    ],
+    "synopsis": "일제강점기와 해방기를 배경으로 시대의 야인 김두한의 일대기를 그린 드라마이다.",
+    "period": "japanese-march"
+  },
+  {
+    "id": "jang-hui-bin-2",
+    "title": "장희빈 (2002)",
+    "titleEn": "Jang Hui-bin",
+    "year": 2002,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 100,
+    "director": "이영국",
+    "cast": [
+      "김혜수",
+      "전인화",
+      "이진",
+      "박선영"
+    ],
+    "synopsis": "조선 숙종 시대 장희빈의 파란만장한 삶과 인현왕후와의 대립, 궁중 정치를 그린 대하 사극이다.",
+    "period": "joseon-sukjong"
+  },
+  {
+    "id": "drama-30",
+    "title": "태양인 이제마",
+    "titleEn": null,
+    "year": 2002,
+    "type": "drama",
+    "era": "구한말",
+    "network": "KBS",
+    "episodes": 24,
+    "director": null,
+    "cast": null,
+    "synopsis": "사상의학의 창시자 이제마의 일대기를 그린 사극이다.",
+    "period": "daehan-empire"
+  },
+  {
+    "id": "damo",
+    "title": "다모",
+    "titleEn": "Damo",
+    "year": 2003,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 14,
+    "director": "이재규",
+    "cast": [
+      "하지원",
+      "이서진",
+      "김민준"
+    ],
+    "synopsis": "조선시대 여형사(다모) 채옥의 이야기를 액션과 로맨스로 그린 퓨전 사극이다.",
+    "period": "joseon-sukjong"
+  },
+  {
+    "id": "jewel-in-the-palace",
+    "title": "대장금",
+    "titleEn": "Jewel in the Palace",
+    "year": 2003,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 54,
+    "director": "이병훈",
+    "cast": [
+      "이영애",
+      "지진희",
+      "홍리나",
+      "임호"
+    ],
+    "synopsis": "조선 중종 시대 최초의 여성 어의 장금의 일대기를 그린 드라마로 90개국 이상에 수출되며 한류를 이끌었다.",
+    "period": "joseon-yeonsangun"
+  },
+  {
+    "id": "immortal-admiral-yi-sun-sin",
+    "title": "불멸의 이순신",
+    "titleEn": "Immortal Admiral Yi Sun-sin",
+    "year": 2004,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 104,
+    "director": "이성주",
+    "cast": [
+      "김명민",
+      "이재룡",
+      "최재성"
+    ],
+    "synopsis": "임진왜란 당시 조선을 구한 성웅 이순신 장군의 일대기를 그린 대하드라마이다.",
+    "period": "joseon-seonjo"
+  },
+  {
+    "id": "emperor-of-the-sea",
+    "title": "해신",
+    "titleEn": "Emperor of the Sea",
+    "year": 2004,
+    "type": "drama",
+    "era": "신라",
+    "network": "KBS",
+    "episodes": 51,
+    "director": "강병택",
+    "cast": [
+      "최수종",
+      "채시라",
+      "송일국"
+    ],
+    "synopsis": "통일신라 시대 해상왕 장보고의 일대기를 그린 드라마이다.",
+    "period": "silla"
+  },
+  {
+    "id": "shin-don",
+    "title": "신돈",
+    "titleEn": "Shin Don",
+    "year": 2005,
+    "type": "drama",
+    "era": "고려",
+    "network": "MBC",
+    "episodes": 61,
+    "director": "김영조",
+    "cast": [
+      "손창민",
+      "서지혜"
+    ],
+    "synopsis": "고려 말 개혁을 추진한 승려 신돈의 이야기를 그린 사극이다.",
+    "period": "goryeo-late"
+  },
+  {
+    "id": "ballad-of-seo-dong",
+    "title": "서동요",
+    "titleEn": "Ballad of Seo Dong",
+    "year": 2005,
+    "type": "drama",
+    "era": "백제",
+    "network": "SBS",
+    "episodes": 55,
+    "director": "이성주",
+    "cast": [
+      "조현재",
+      "이보영",
+      "류진"
+    ],
+    "synopsis": "SBS 창사 15주년 기념작으로 백제 무왕(서동)과 신라 선화공주의 사랑 이야기를 그린 사극이다.",
+    "period": "baekje"
+  },
+  {
+    "id": "jumong",
+    "title": "주몽",
+    "titleEn": "Jumong",
+    "year": 2006,
+    "type": "drama",
+    "era": "고구려",
+    "network": "MBC",
+    "episodes": 81,
+    "director": "이주환",
+    "cast": [
+      "송일국",
+      "한혜진",
+      "김승수",
+      "전광렬"
+    ],
+    "synopsis": "고구려 건국 시조 주몽의 일대기를 그린 대하드라마로 고구려 건국의 과정을 역동적으로 묘사했다.",
+    "period": "goguryeo"
+  },
+  {
+    "id": "dae-jo-yeong",
+    "title": "대조영",
+    "titleEn": "Dae Jo-yeong",
+    "year": 2006,
+    "type": "drama",
+    "era": "발해",
+    "network": "KBS",
+    "episodes": 134,
+    "director": "김종선",
+    "cast": [
+      "최수종",
+      "정보석",
+      "박예진"
+    ],
+    "synopsis": "고구려 멸망 후 발해를 건국한 대조영의 일대기를 그린 대하드라마이다.",
+    "period": "balhae"
+  },
+  {
+    "id": "yeon-gaesomun",
+    "title": "연개소문",
+    "titleEn": "Yeon Gaesomun",
+    "year": 2006,
+    "type": "drama",
+    "era": "고구려",
+    "network": "SBS",
+    "episodes": 100,
+    "director": "이형선",
+    "cast": [
+      "이태곤"
+    ],
+    "synopsis": "고구려의 영웅 연개소문의 일대기를 그린 대하드라마로 당나라와의 전쟁을 중심으로 전개된다.",
+    "period": "goguryeo"
+  },
+  {
+    "id": "hwang-jini",
+    "title": "황진이",
+    "titleEn": "Hwang Jini",
+    "year": 2006,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 24,
+    "director": "김철규",
+    "cast": [
+      "하지원",
+      "김영애",
+      "장근석"
+    ],
+    "synopsis": "조선 중종 시대 최고의 기생이자 예인 황진이의 예술과 사랑을 그린 드라마이다.",
+    "period": "joseon-yeonsangun"
+  },
+  {
+    "id": "the-king-and-i",
+    "title": "왕과 나",
+    "titleEn": "The King and I",
+    "year": 2007,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 63,
+    "director": "김재형",
+    "cast": [
+      "오만석",
+      "구혜선",
+      "전광렬"
+    ],
+    "synopsis": "조선 세조 시대 내시 김처선의 이야기를 통해 궁중 권력을 그린 사극이다.",
+    "period": "joseon-sejo"
+  },
+  {
+    "id": "yi-san",
+    "title": "이산",
+    "titleEn": "Yi San",
+    "year": 2007,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 77,
+    "director": "이병훈",
+    "cast": [
+      "이서진",
+      "한지민",
+      "이종수"
+    ],
+    "synopsis": "조선 제22대 왕 정조의 개혁 정치와 사도세자의 아들로서의 고뇌를 그린 대하사극이다.",
+    "period": "joseon-gyeongjong"
+  },
+  {
+    "id": "the-legend",
+    "title": "태왕사신기",
+    "titleEn": "The Legend",
+    "year": 2007,
+    "type": "drama",
+    "era": "고구려",
+    "network": "MBC",
+    "episodes": 24,
+    "director": "김종학",
+    "cast": [
+      "배용준",
+      "문소리",
+      "이지아"
+    ],
+    "synopsis": "고구려 광개토태왕을 소재로 한 판타지 사극으로 사신의 전설과 함께 영웅의 이야기를 그렸다.",
+    "period": "goguryeo"
+  },
+  {
+    "id": "iljimae",
+    "title": "일지매",
+    "titleEn": "Iljimae",
+    "year": 2008,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 20,
+    "director": "이용석",
+    "cast": [
+      "이준기",
+      "한효주",
+      "박시후"
+    ],
+    "synopsis": "조선 인조 시대 아버지의 복수를 위해 의적 일지매가 되는 한 남자의 이야기를 그린 퓨전 사극이다.",
+    "period": "joseon-injo"
+  },
+  {
+    "id": "hong-gil-dong-the-hero",
+    "title": "쾌도 홍길동",
+    "titleEn": "Hong Gil-dong, the Hero",
+    "year": 2008,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 24,
+    "director": "이정섭",
+    "cast": [
+      "강지환",
+      "성유리",
+      "장근석"
+    ],
+    "synopsis": "조선시대 전설의 의적 홍길동의 이야기를 코미디와 액션으로 재해석한 퓨전 사극이다.",
+    "period": "joseon-yeonsangun"
+  },
+  {
+    "id": "painter-of-the-wind",
+    "title": "바람의 화원",
+    "titleEn": "Painter of the Wind",
+    "year": 2008,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 20,
+    "director": "장태유",
+    "cast": [
+      "문근영",
+      "박신양",
+      "문채원"
+    ],
+    "synopsis": "이정명 원작 소설을 극화한 작품으로 조선 후기 천재 화가 신윤복이 여성이라는 설정의 사극이다.",
+    "period": "joseon-jeongjo"
+  },
+  {
+    "id": "the-kingdom-of-the-winds",
+    "title": "바람의 나라",
+    "titleEn": "The Kingdom of the Winds",
+    "year": 2008,
+    "type": "drama",
+    "era": "고구려",
+    "network": "KBS",
+    "episodes": 36,
+    "director": "강일수",
+    "cast": [
+      "송일국",
+      "정진영",
+      "최정원"
+    ],
+    "synopsis": "고구려 제3대 왕 대무신왕의 일대기를 그린 사극이다.",
+    "period": "goguryeo"
+  },
+  {
+    "id": "king-sejong-the-great",
+    "title": "대왕세종",
+    "titleEn": "King Sejong the Great",
+    "year": 2008,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 86,
+    "director": "김영조",
+    "cast": [
+      "김상경",
+      "김영철",
+      "이윤지"
+    ],
+    "synopsis": "조선 제4대 왕 세종대왕의 즉위부터 한글 창제까지의 일대기를 그린 대하드라마이다.",
+    "period": "joseon-sejong"
+  },
+  {
+    "id": "bicheonmu",
+    "title": "비천무",
+    "titleEn": "Bicheonmu",
+    "year": 2008,
+    "type": "drama",
+    "era": "고려",
+    "network": "MBC",
+    "episodes": 20,
+    "director": "김영준",
+    "cast": [
+      "신현준",
+      "이서진",
+      "한은정"
+    ],
+    "synopsis": "고려 말을 배경으로 한 무협 로맨스 퓨전 사극이다.",
+    "period": "goryeo-late"
+  },
+  {
+    "id": "the-return-of-iljimae",
+    "title": "돌아온 일지매",
+    "titleEn": "The Return of Iljimae",
+    "year": 2009,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 24,
+    "director": "황인뢰",
+    "cast": [
+      "정일우",
+      "윤진서",
+      "김민종"
+    ],
+    "synopsis": "의적 일지매의 또 다른 이야기로 탐관오리에 맞서 싸우는 영웅의 이야기를 그렸다.",
+    "period": "joseon-injo"
+  },
+  {
+    "id": "queen-seondeok",
+    "title": "선덕여왕",
+    "titleEn": "Queen Seondeok",
+    "year": 2009,
+    "type": "drama",
+    "era": "신라",
+    "network": "MBC",
+    "episodes": 62,
+    "director": "박홍균",
+    "cast": [
+      "이요원",
+      "고현정",
+      "엄태웅",
+      "김남길"
+    ],
+    "synopsis": "신라 최초의 여왕 선덕여왕의 파란만장한 삶과 미실과의 정치적 대립을 그린 사극이다.",
+    "period": "silla"
+  },
+  {
+    "id": "ja-myung-go",
+    "title": "자명고",
+    "titleEn": "Ja Myung Go",
+    "year": 2009,
+    "type": "drama",
+    "era": "고구려",
+    "network": "SBS",
+    "episodes": 39,
+    "director": "이형선",
+    "cast": [
+      "정려원",
+      "박민영",
+      "이주현"
+    ],
+    "synopsis": "고구려 시대 전설의 악기 자명고를 둘러싼 이야기를 그린 사극이다.",
+    "period": "goguryeo"
+  },
+  {
+    "id": "empress-cheonchu",
+    "title": "천추태후",
+    "titleEn": "Empress Cheonchu",
+    "year": 2009,
+    "type": "drama",
+    "era": "고려",
+    "network": "KBS",
+    "episodes": 78,
+    "director": "신창석",
+    "cast": [
+      "채시라",
+      "최재성",
+      "김석훈"
+    ],
+    "synopsis": "고려 시대 섭정했던 천추태후의 정치적 삶을 그린 대하사극이다.",
+    "period": "goryeo-early"
+  },
+  {
+    "id": "chuno-the-slave-hunters",
+    "title": "추노",
+    "titleEn": "Chuno (The Slave Hunters)",
+    "year": 2010,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 24,
+    "director": "곽정환",
+    "cast": [
+      "장혁",
+      "오지호",
+      "이다해",
+      "공형진"
+    ],
+    "synopsis": "조선 인조 시대를 배경으로 노비 추적꾼과 도망 노비들의 이야기를 통해 신분제의 모순을 그린 퓨전 사극이다.",
+    "period": "joseon-injo"
+  },
+  {
+    "id": "dong-yi",
+    "title": "동이",
+    "titleEn": "Dong Yi",
+    "year": 2010,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 60,
+    "director": "이병훈",
+    "cast": [
+      "한효주",
+      "지진희",
+      "이소연",
+      "배수빈"
+    ],
+    "synopsis": "천민 출신으로 숙종의 후궁이 되어 영조의 생모가 된 숙빈 최씨의 일대기를 그린 사극이다.",
+    "period": "joseon-sukjong"
+  },
+  {
+    "id": "king-geunchogo",
+    "title": "근초고왕",
+    "titleEn": "King Geunchogo",
+    "year": 2010,
+    "type": "drama",
+    "era": "백제",
+    "network": "KBS",
+    "episodes": 60,
+    "director": "신창석",
+    "cast": [
+      "감우성",
+      "안재모"
+    ],
+    "synopsis": "백제의 전성기를 이끈 제13대 왕 근초고왕의 일대기를 그린 대하드라마이다.",
+    "period": "baekje"
+  },
+  {
+    "id": "jejungwon",
+    "title": "제중원",
+    "titleEn": "Jejungwon",
+    "year": 2010,
+    "type": "drama",
+    "era": "구한말",
+    "network": "SBS",
+    "episodes": 36,
+    "director": "황인뢰",
+    "cast": [
+      "박용우",
+      "한혜진",
+      "연정훈"
+    ],
+    "synopsis": "구한말 최초의 근대식 병원 제중원을 배경으로 한 의학 사극이다.",
+    "period": "daehan-empire"
+  },
+  {
+    "id": "sungkyunkwan-scandal",
+    "title": "성균관 스캔들",
+    "titleEn": "Sungkyunkwan Scandal",
+    "year": 2010,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 20,
+    "director": "김원석",
+    "cast": [
+      "박유천",
+      "박민영",
+      "유아인",
+      "송중기"
+    ],
+    "synopsis": "정은궐의 소설 원작으로 남장 여자 유생이 성균관에 입학하며 벌어지는 사건을 그린 청춘 퓨전 사극이다.",
+    "period": "joseon-jeongjo"
+  },
+  {
+    "id": "kim-soo-ro",
+    "title": "김수로",
+    "titleEn": "Kim Soo Ro",
+    "year": 2010,
+    "type": "drama",
+    "era": "가야",
+    "network": "MBC",
+    "episodes": 32,
+    "director": "이주환",
+    "cast": [
+      "지성",
+      "유오성",
+      "서지혜",
+      "배종옥"
+    ],
+    "synopsis": "가야의 시조 김수로왕의 일대기를 그린 사극으로 철기 문명을 중심으로 한 건국 서사이다.",
+    "period": "gaya"
+  },
+  {
+    "id": "deep-rooted-tree",
+    "title": "뿌리깊은 나무",
+    "titleEn": "Deep Rooted Tree",
+    "year": 2011,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 24,
+    "director": "장태유",
+    "cast": [
+      "한석규",
+      "장혁",
+      "신세경"
+    ],
+    "synopsis": "세종대왕의 한글 창제 과정과 이를 둘러싼 비밀 조직 밀본과의 대립을 그린 사극 스릴러이다.",
+    "period": "joseon-sejong"
+  },
+  {
+    "id": "king-gwanggaeto-the-great",
+    "title": "광개토태왕",
+    "titleEn": "King Gwanggaeto the Great",
+    "year": 2011,
+    "type": "drama",
+    "era": "고구려",
+    "network": "KBS",
+    "episodes": 92,
+    "director": "김종선",
+    "cast": [
+      "이태곤",
+      "김승수",
+      "임호"
+    ],
+    "synopsis": "고구려의 전성기를 이끈 광개토대왕의 일대기를 그린 대하드라마이다.",
+    "period": "goguryeo"
+  },
+  {
+    "id": "warrior-baek-dong-soo",
+    "title": "무사 백동수",
+    "titleEn": "Warrior Baek Dong Soo",
+    "year": 2011,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 29,
+    "director": "최종수",
+    "cast": [
+      "지창욱",
+      "유승호",
+      "윤소이"
+    ],
+    "synopsis": "조선 영조-정조 시대 실존 무사 백동수의 성장과 우정, 검술의 이야기를 그린 사극이다.",
+    "period": "joseon-gyeongjong"
+  },
+  {
+    "id": "the-princess-man",
+    "title": "공주의 남자",
+    "titleEn": "The Princess' Man",
+    "year": 2011,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 24,
+    "director": "김정민",
+    "cast": [
+      "박시후",
+      "문채원",
+      "홍수현",
+      "송종호"
+    ],
+    "synopsis": "수양대군의 딸과 사육신 김종서의 아들 사이의 비극적 사랑을 그린 조선판 로미오와 줄리엣이다.",
+    "period": "joseon-sejo"
+  },
+  {
+    "id": "light-and-shadow",
+    "title": "빛과 그림자",
+    "titleEn": "Light and Shadow",
+    "year": 2011,
+    "type": "drama",
+    "era": "현대사",
+    "network": "MBC",
+    "episodes": 64,
+    "director": null,
+    "cast": [
+      "안재욱",
+      "남상미",
+      "이필모"
+    ],
+    "synopsis": "1960~80년대 한국 연예계의 빛과 그림자를 그린 시대극이다.",
+    "period": "modern-republic"
+  },
+  {
+    "id": "queen-insoo",
+    "title": "인수대비",
+    "titleEn": "Queen Insoo",
+    "year": 2011,
+    "type": "drama",
+    "era": "조선",
+    "network": "JTBC",
+    "episodes": 60,
+    "director": "이태곤",
+    "cast": [
+      "채시라",
+      "전혜빈",
+      "김미숙"
+    ],
+    "synopsis": "조선 세조~성종 시대 최고의 권력을 가진 인수대비의 일대기를 그린 사극이다.",
+    "period": "joseon-sejo"
+  },
+  {
+    "id": "the-moon-embracing-the-sun",
+    "title": "해를 품은 달",
+    "titleEn": "The Moon Embracing the Sun",
+    "year": 2012,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 20,
+    "director": "김도훈",
+    "cast": [
+      "김수현",
+      "한가인",
+      "정일우"
+    ],
+    "synopsis": "정은궐 원작 소설을 극화한 작품으로, 가상의 조선 왕과 기억을 잃은 무녀가 된 여인의 운명적 사랑을 그렸다.",
+    "period": "joseon-general"
+  },
+  {
+    "id": "faith",
+    "title": "신의",
+    "titleEn": "Faith",
+    "year": 2012,
+    "type": "drama",
+    "era": "고려",
+    "network": "SBS",
+    "episodes": 24,
+    "director": "김종학",
+    "cast": [
+      "이민호",
+      "김희선",
+      "유오성"
+    ],
+    "synopsis": "고려 시대 무사 최영이 현대 여의사를 과거로 데려오면서 벌어지는 시간 초월 로맨스 사극이다.",
+    "period": "goryeo-late"
+  },
+  {
+    "id": "god-of-war",
+    "title": "무신",
+    "titleEn": "God of War",
+    "year": 2012,
+    "type": "drama",
+    "era": "고려",
+    "network": "MBC",
+    "episodes": 56,
+    "director": "신창석",
+    "cast": [
+      "김주혁",
+      "김규리",
+      "정보석"
+    ],
+    "synopsis": "팔만대장경 탄생 1000주년 기념작으로 고려 무신 정권기 김준의 삶과 대몽항쟁을 그린 대하드라마이다.",
+    "period": "goryeo-military"
+  },
+  {
+    "id": "arang-and-the-magistrate",
+    "title": "아랑사또전",
+    "titleEn": "Arang and the Magistrate",
+    "year": 2012,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 20,
+    "director": "김상호",
+    "cast": [
+      "이준기",
+      "신민아",
+      "연우진"
+    ],
+    "synopsis": "아랑전설을 소재로 귀신을 볼 수 있는 사또와 천방지축 귀신 아랑이 함께 사건을 풀어가는 판타지 사극이다.",
+    "period": "joseon-general"
+  },
+  {
+    "id": "horse-doctor",
+    "title": "마의",
+    "titleEn": "Horse Doctor",
+    "year": 2012,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 50,
+    "director": "이병훈",
+    "cast": [
+      "조승우",
+      "이요원",
+      "손창민"
+    ],
+    "synopsis": "조선시대 말(馬) 의원에서 어의로 성장한 백광현의 이야기를 그린 사극이다.",
+    "period": "joseon-sejo"
+  },
+  {
+    "id": "the-great-seer",
+    "title": "대풍수",
+    "titleEn": "The Great Seer",
+    "year": 2012,
+    "type": "drama",
+    "era": "고려",
+    "network": "SBS",
+    "episodes": 35,
+    "director": "유현기",
+    "cast": [
+      "지성",
+      "지진희",
+      "김소연"
+    ],
+    "synopsis": "고려 말 풍수를 통해 새 왕조의 터를 찾는 이야기를 그린 사극이다.",
+    "period": "goryeo-late"
+  },
+  {
+    "id": "jeon-woo-chi",
+    "title": "전우치",
+    "titleEn": "Jeon Woo Chi",
+    "year": 2012,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 24,
+    "director": "강일수",
+    "cast": [
+      "차태현",
+      "유이",
+      "이희준"
+    ],
+    "synopsis": "조선시대 도술을 부리는 전우치의 이야기를 코미디와 액션으로 재해석한 퓨전 사극이다.",
+    "period": "joseon-injo"
+  },
+  {
+    "id": "bridal-mask-gaksital",
+    "title": "각시탈",
+    "titleEn": "Bridal Mask (Gaksital)",
+    "year": 2012,
+    "type": "drama",
+    "era": "일제강점기",
+    "network": "KBS",
+    "episodes": 28,
+    "director": "윤성식",
+    "cast": [
+      "주원",
+      "진세연",
+      "박기웅"
+    ],
+    "synopsis": "일제강점기 가면을 쓴 독립투사 각시탈의 정체를 둘러싼 액션 사극이다.",
+    "period": "japanese-march"
+  },
+  {
+    "id": "the-kings-dream",
+    "title": "대왕의 꿈",
+    "titleEn": "The King's Dream",
+    "year": 2012,
+    "type": "drama",
+    "era": "신라",
+    "network": "KBS",
+    "episodes": 70,
+    "director": "신창석",
+    "cast": [
+      "최수종",
+      "조재현",
+      "홍수현"
+    ],
+    "synopsis": "신라 태종무열왕 김춘추의 삼국통일 대업을 그린 KBS 대하드라마이다.",
+    "period": "silla"
+  },
+  {
+    "id": "empress-ki",
+    "title": "기황후",
+    "titleEn": "Empress Ki",
+    "year": 2013,
+    "type": "drama",
+    "era": "고려",
+    "network": "MBC",
+    "episodes": 51,
+    "director": "한희",
+    "cast": [
+      "하지원",
+      "지창욱",
+      "주진모",
+      "백진희"
+    ],
+    "synopsis": "고려 출신으로 원나라 황후가 된 기황후의 파란만장한 삶을 그린 대하 퓨전 사극이다.",
+    "period": "goryeo-mongol"
+  },
+  {
+    "id": "the-fugitive-of-joseon",
+    "title": "천명: 조선판 도망자",
+    "titleEn": "The Fugitive of Joseon",
+    "year": 2013,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 20,
+    "director": "조남국",
+    "cast": [
+      "이동욱",
+      "송지효",
+      "김유빈"
+    ],
+    "synopsis": "조선시대 딸을 살리기 위해 도주하는 어의의 이야기를 그린 액션 퓨전 사극이다.",
+    "period": "joseon-seonjo"
+  },
+  {
+    "id": "jeong-do-jeon",
+    "title": "정도전",
+    "titleEn": "Jeong Do-jeon",
+    "year": 2014,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 50,
+    "director": "강병택",
+    "cast": [
+      "조재현",
+      "유동근",
+      "임호"
+    ],
+    "synopsis": "고려 말 혁명가이자 조선 건국의 설계자인 삼봉 정도전의 삶과 이상을 그린 정통 사극이다.",
+    "period": "joseon-taejo"
+  },
+  {
+    "id": "the-kings-face",
+    "title": "왕의 얼굴",
+    "titleEn": "The King's Face",
+    "year": 2014,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 23,
+    "director": "유현기",
+    "cast": [
+      "서인국",
+      "조윤희",
+      "이성재",
+      "신성록"
+    ],
+    "synopsis": "관상학을 소재로 한 조선 선조와 광해군의 정치적 갈등을 그린 사극이다.",
+    "period": "joseon-seonjo"
+  },
+  {
+    "id": "the-night-watchmans-journal",
+    "title": "야경꾼 일지",
+    "titleEn": "The Night Watchman's Journal",
+    "year": 2014,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 24,
+    "director": "이주현",
+    "cast": [
+      "정일우",
+      "고성희",
+      "윤균상",
+      "서예지"
+    ],
+    "synopsis": "조선시대 귀신을 퇴치하는 야경꾼들의 이야기를 그린 판타지 사극이다.",
+    "period": "joseon-general"
+  },
+  {
+    "id": "joseon-gunman",
+    "title": "조선 거너",
+    "titleEn": "Joseon Gunman",
+    "year": 2014,
+    "type": "drama",
+    "era": "구한말",
+    "network": "KBS",
+    "episodes": 22,
+    "director": "김정민",
+    "cast": [
+      "이준기",
+      "남상미",
+      "전혜빈"
+    ],
+    "synopsis": "구한말 조선을 배경으로 총을 든 무사의 이야기를 그린 액션 사극이다.",
+    "period": "daehan-empire"
+  },
+  {
+    "id": "secret-door",
+    "title": "비밀의 문",
+    "titleEn": "Secret Door",
+    "year": 2014,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 24,
+    "director": "김형식",
+    "cast": [
+      "한석규",
+      "이제훈",
+      "김유정"
+    ],
+    "synopsis": "영조와 사도세자의 비극적 부자 관계를 미스터리 스릴러로 재해석한 사극이다.",
+    "period": "joseon-gyeongjong"
+  },
+  {
+    "id": "the-three-musketeers",
+    "title": "삼총사",
+    "titleEn": "The Three Musketeers",
+    "year": 2014,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 12,
+    "director": "김병수",
+    "cast": [
+      "정용화",
+      "이진욱",
+      "양동근",
+      "정해인"
+    ],
+    "synopsis": "조선 인조 시대를 배경으로 세자와 세 명의 무사가 벌이는 모험을 그린 퓨전 사극이다.",
+    "period": "joseon-injo"
+  },
+  {
+    "id": "hwajung",
+    "title": "화정",
+    "titleEn": "Hwajung",
+    "year": 2015,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 50,
+    "director": "김상호",
+    "cast": [
+      "이연희",
+      "차승원",
+      "김재원",
+      "서강준"
+    ],
+    "synopsis": "선조의 유일한 적녀 정명공주의 파란만장한 삶과 광해군과의 정치적 대립을 그린 대하사극이다.",
+    "period": "joseon-seonjo"
+  },
+  {
+    "id": "six-flying-dragons",
+    "title": "육룡이 나르샤",
+    "titleEn": "Six Flying Dragons",
+    "year": 2015,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 50,
+    "director": "신경수",
+    "cast": [
+      "유아인",
+      "김명민",
+      "신세경",
+      "변요한",
+      "윤균상",
+      "천호진"
+    ],
+    "synopsis": "고려 말에서 조선 건국기를 배경으로 이방원, 정도전 등 여섯 영웅의 이야기를 그린 뿌리깊은 나무의 프리퀄이다.",
+    "period": "joseon-taejo"
+  },
+  {
+    "id": "scholar-who-walks-the-night",
+    "title": "밤을 걷는 선비",
+    "titleEn": "Scholar Who Walks the Night",
+    "year": 2015,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 20,
+    "director": "이성준",
+    "cast": [
+      "이준기",
+      "이유비",
+      "김소은",
+      "이수혁"
+    ],
+    "synopsis": "뱀파이어가 된 조선시대 선비와 남장 여인의 사랑을 그린 판타지 퓨전 사극이다.",
+    "period": "joseon-general"
+  },
+  {
+    "id": "love-in-the-moonlight",
+    "title": "구르미 그린 달빛",
+    "titleEn": "Love in the Moonlight",
+    "year": 2016,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 18,
+    "director": "김성윤",
+    "cast": [
+      "박보검",
+      "김유정",
+      "진영",
+      "정진영"
+    ],
+    "synopsis": "남장 여자가 세자의 내시가 되면서 벌어지는 궁중 로맨스를 그린 퓨전 사극이다.",
+    "period": "joseon-general"
+  },
+  {
+    "id": "moon-lovers-scarlet-heart-ryeo",
+    "title": "달의 연인 - 보보경심 려",
+    "titleEn": "Moon Lovers: Scarlet Heart Ryeo",
+    "year": 2016,
+    "type": "drama",
+    "era": "고려",
+    "network": "SBS",
+    "episodes": 20,
+    "director": "김규태",
+    "cast": [
+      "이준기",
+      "아이유",
+      "강하늘",
+      "홍종현",
+      "백현",
+      "남주혁"
+    ],
+    "synopsis": "현대 여성이 고려 시대로 타임슬립하여 왕자들과 얽히는 로맨스 사극으로 중국 소설 보보경심의 한국판이다.",
+    "period": "goryeo-early"
+  },
+  {
+    "id": "flower-in-prison",
+    "title": "옥중화",
+    "titleEn": "Flower in Prison",
+    "year": 2016,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 51,
+    "director": "이병훈",
+    "cast": [
+      "진세연",
+      "고수",
+      "박주미",
+      "정준호"
+    ],
+    "synopsis": "감옥에서 태어나 자란 여인 옥녀가 조선 명종 시대 최고의 여걸이 되는 이야기를 그린 사극이다.",
+    "period": "joseon-injong"
+  },
+  {
+    "id": "hwarang-the-poet-warrior-youth",
+    "title": "화랑",
+    "titleEn": "Hwarang: The Poet Warrior Youth",
+    "year": 2016,
+    "type": "drama",
+    "era": "신라",
+    "network": "KBS",
+    "episodes": 20,
+    "director": "윤성식",
+    "cast": [
+      "박서준",
+      "고아라",
+      "박형식",
+      "뷔",
+      "민호"
+    ],
+    "synopsis": "신라 진흥왕 시대 화랑도의 청춘과 우정, 사랑을 그린 퓨전 사극이다.",
+    "period": "silla"
+  },
+  {
+    "id": "jang-yeong-sil",
+    "title": "장영실",
+    "titleEn": "Jang Yeong-sil",
+    "year": 2016,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 24,
+    "director": "김영조",
+    "cast": [
+      "송일국",
+      "김상경",
+      "서현진"
+    ],
+    "synopsis": "조선 세종 시대 천재 발명가 장영실의 삶과 업적을 그린 사극이다.",
+    "period": "joseon-sejong"
+  },
+  {
+    "id": "jackpot-the-royal-gambler",
+    "title": "대박",
+    "titleEn": "Jackpot (The Royal Gambler)",
+    "year": 2016,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 24,
+    "director": "남건",
+    "cast": [
+      "장근석",
+      "여진구",
+      "전광렬",
+      "임지연"
+    ],
+    "synopsis": "숙종의 숨겨진 아들이 도박의 천재로 성장해 권력에 맞서는 이야기를 그린 퓨전 사극이다.",
+    "period": "joseon-sukjong"
+  },
+  {
+    "id": "rebel-thief-who-stole-the-people",
+    "title": "역적: 백성을 훔친 도적",
+    "titleEn": "Rebel: Thief Who Stole the People",
+    "year": 2017,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 30,
+    "director": "김진만",
+    "cast": [
+      "윤균상",
+      "채수빈",
+      "김지석",
+      "이하늬",
+      "김상중"
+    ],
+    "synopsis": "연산군 시대 민중의 영웅 홍길동의 이야기를 새롭게 재해석한 퓨전 사극이다.",
+    "period": "joseon-yeonsangun"
+  },
+  {
+    "id": "queen-for-seven-days",
+    "title": "7일의 왕비",
+    "titleEn": "Queen for Seven Days",
+    "year": 2017,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 20,
+    "director": "이정섭",
+    "cast": [
+      "박민영",
+      "연우진",
+      "이동건"
+    ],
+    "synopsis": "7일 만에 폐위된 비운의 왕비 단경왕후와 중종, 연산군의 삼각 로맨스를 그린 사극이다.",
+    "period": "joseon-yeonsangun"
+  },
+  {
+    "id": "the-king-loves",
+    "title": "왕은 사랑한다",
+    "titleEn": "The King Loves",
+    "year": 2017,
+    "type": "drama",
+    "era": "고려",
+    "network": "MBC",
+    "episodes": 40,
+    "director": "김상협",
+    "cast": [
+      "임시완",
+      "윤아",
+      "홍종현"
+    ],
+    "synopsis": "고려 충선왕 시대를 배경으로 왕세자와 그의 친구, 한 여인의 사랑과 우정을 그린 사극이다.",
+    "period": "goryeo-mongol"
+  },
+  {
+    "id": "ruler-master-of-the-mask",
+    "title": "군주 - 가면의 주인",
+    "titleEn": "Ruler: Master of the Mask",
+    "year": 2017,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 40,
+    "director": "노도철",
+    "cast": [
+      "유승호",
+      "김소현",
+      "김명수",
+      "윤소희"
+    ],
+    "synopsis": "가면 뒤에 숨은 왕과 진짜 왕의 정체를 둘러싼 권력 다툼을 그린 퓨전 사극이다.",
+    "period": "joseon-gwanghaegun"
+  },
+  {
+    "id": "100-days-my-prince",
+    "title": "100일의 낭군님",
+    "titleEn": "100 Days My Prince",
+    "year": 2018,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 16,
+    "director": "이종재",
+    "cast": [
+      "도경수",
+      "남지현",
+      "김선호"
+    ],
+    "synopsis": "기억을 잃은 세자가 시골 마을에서 100일간 평민으로 살며 사랑을 찾는 로맨스 사극이다.",
+    "period": "joseon-gwanghaegun"
+  },
+  {
+    "id": "mr-sunshine",
+    "title": "미스터 션샤인",
+    "titleEn": "Mr. Sunshine",
+    "year": 2018,
+    "type": "drama",
+    "era": "구한말",
+    "network": "tvN",
+    "episodes": 24,
+    "director": "이응복",
+    "cast": [
+      "이병헌",
+      "김태리",
+      "유연석",
+      "김민정",
+      "변요한"
+    ],
+    "synopsis": "신미양요 때 미국으로 건너간 노비 출신 소년이 미 해병대 장교가 되어 구한말 조선으로 돌아와 의병 활동을 하는 양반 가문의 여인과 사랑에 빠지는 이야기이다.",
+    "period": "daehan-empire"
+  },
+  {
+    "id": "kingdom",
+    "title": "킹덤",
+    "titleEn": "Kingdom",
+    "year": 2019,
+    "type": "drama",
+    "era": "조선",
+    "network": "Netflix",
+    "episodes": 12,
+    "director": "김성훈",
+    "cast": [
+      "주지훈",
+      "배두나",
+      "류승룡",
+      "김상호"
+    ],
+    "synopsis": "조선시대를 배경으로 좀비 역병이 창궐하는 가운데 왕세자가 비밀을 파헤치는 사극 스릴러이다. 시즌1(6화)과 시즌2(6화)로 구성.",
+    "period": "joseon-injo"
+  },
+  {
+    "id": "haechi",
+    "title": "해치",
+    "titleEn": "Haechi",
+    "year": 2019,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 48,
+    "director": "이용석",
+    "cast": [
+      "정일우",
+      "고아라",
+      "권율",
+      "박훈"
+    ],
+    "synopsis": "천한 무수리의 아들 연잉군(영조)이 박문수, 여지, 달문과 함께 대권을 쟁취하고 사헌부 개혁을 이루는 이야기이다.",
+    "period": "joseon-sukjong"
+  },
+  {
+    "id": "nokdu-flower",
+    "title": "녹두꽃",
+    "titleEn": "Nokdu Flower",
+    "year": 2019,
+    "type": "drama",
+    "era": "구한말",
+    "network": "SBS",
+    "episodes": 48,
+    "director": "신경수",
+    "cast": [
+      "조정석",
+      "윤시윤",
+      "한예리"
+    ],
+    "synopsis": "1894년 동학 농민 운동을 배경으로 서로 다른 길을 걷는 이복형제의 이야기를 그린 사극이다.",
+    "period": "daehan-empire"
+  },
+  {
+    "id": "the-crowned-clown",
+    "title": "왕이 된 남자",
+    "titleEn": "The Crowned Clown",
+    "year": 2019,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 16,
+    "director": "김희원",
+    "cast": [
+      "여진구",
+      "이세영",
+      "김상경"
+    ],
+    "synopsis": "암살 위협에 시달리는 왕을 대신해 닮은꼴 광대가 왕 노릇을 하게 되는 궁중 로맨스 사극이다.",
+    "period": "joseon-gwanghaegun"
+  },
+  {
+    "id": "my-country-the-new-age",
+    "title": "나의 나라",
+    "titleEn": "My Country: The New Age",
+    "year": 2019,
+    "type": "drama",
+    "era": "조선",
+    "network": "JTBC",
+    "episodes": 16,
+    "director": "김진원",
+    "cast": [
+      "양세종",
+      "우도환",
+      "김설현",
+      "장혁"
+    ],
+    "synopsis": "고려 말 조선 건국기를 배경으로 서로 다른 길을 걷게 된 두 친구의 우정과 배신을 그린 사극이다.",
+    "period": "joseon-taejo"
+  },
+  {
+    "id": "arthdal-chronicles",
+    "title": "아스달 연대기",
+    "titleEn": "Arthdal Chronicles",
+    "year": 2019,
+    "type": "drama",
+    "era": "고대",
+    "network": "tvN",
+    "episodes": 18,
+    "director": "김원석",
+    "cast": [
+      "송중기",
+      "김지원",
+      "장동건",
+      "김옥빈"
+    ],
+    "synopsis": "태고의 땅 아스에서 서로 다른 전설을 써가는 영웅들의 운명적 이야기를 그린 판타지 사극이다.",
+    "period": "gojoseon"
+  },
+  {
+    "id": "the-tale-of-nokdu",
+    "title": "조선로코 - 녹두전",
+    "titleEn": "The Tale of Nokdu",
+    "year": 2019,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 32,
+    "director": "김동휘",
+    "cast": [
+      "장동윤",
+      "김소현",
+      "강태오"
+    ],
+    "synopsis": "여인들만 사는 과부촌에 여장을 하고 숨어든 남자 녹두의 이야기를 그린 로맨스 퓨전 사극이다.",
+    "period": "joseon-gwanghaegun"
+  },
+  {
+    "id": "flower-crew-joseon-marriage-agency",
+    "title": "꽃파당: 조선혼담공작소",
+    "titleEn": "Flower Crew: Joseon Marriage Agency",
+    "year": 2019,
+    "type": "drama",
+    "era": "조선",
+    "network": "JTBC",
+    "episodes": 16,
+    "director": "김가람",
+    "cast": [
+      "김민재",
+      "공승연",
+      "서지훈",
+      "박지훈"
+    ],
+    "synopsis": "조선시대 혼담을 주선하는 청년들의 이야기를 그린 퓨전 로맨스 사극이다.",
+    "period": "joseon-gwanghaegun"
+  },
+  {
+    "id": "queen-love-and-war",
+    "title": "간택 - 여인들의 전쟁",
+    "titleEn": "Queen: Love and War",
+    "year": 2019,
+    "type": "drama",
+    "era": "조선",
+    "network": "TV조선",
+    "episodes": 16,
+    "director": "김정민",
+    "cast": [
+      "진세연",
+      "김민규",
+      "이열음"
+    ],
+    "synopsis": "조선시대 왕비 간택 과정을 둘러싼 여인들의 치열한 암투를 그린 사극이다.",
+    "period": "joseon-sukjong"
+  },
+  {
+    "id": "mr-queen",
+    "title": "철인왕후",
+    "titleEn": "Mr. Queen",
+    "year": 2020,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 20,
+    "director": "윤성식",
+    "cast": [
+      "신혜선",
+      "김정현",
+      "배종옥",
+      "김태우"
+    ],
+    "synopsis": "현대 남성 셰프의 영혼이 조선시대 철종의 왕비 몸에 빙의되면서 벌어지는 코미디 퓨전 사극이다.",
+    "period": "joseon-sunjo"
+  },
+  {
+    "id": "secret-royal-inspector",
+    "title": "시크릿 로얄 인스펙션",
+    "titleEn": "Secret Royal Inspector",
+    "year": 2020,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 16,
+    "director": "김정민",
+    "cast": [
+      "김명수",
+      "권나라",
+      "이이경"
+    ],
+    "synopsis": "암행어사로 발탁된 청년이 벌이는 좌충우돌 수사극을 그린 퓨전 사극이다.",
+    "period": "joseon-sukjong"
+  },
+  {
+    "id": "king-maker-the-change-of-destiny",
+    "title": "바람과 구름과 비 (2020)",
+    "titleEn": "King Maker: The Change of Destiny",
+    "year": 2020,
+    "type": "drama",
+    "era": "조선",
+    "network": "TV조선",
+    "episodes": 24,
+    "director": "윤상호",
+    "cast": [
+      "박시후",
+      "고성희",
+      "전광렬"
+    ],
+    "synopsis": "조선 철종 시대를 배경으로 관상과 풍수를 이용한 왕 만들기를 그린 사극의 리메이크작이다.",
+    "period": "joseon-sunjo"
+  },
+  {
+    "id": "kingdom-ashin-of-the-north",
+    "title": "킹덤: 아신전",
+    "titleEn": "Kingdom: Ashin of the North",
+    "year": 2021,
+    "type": "drama",
+    "era": "조선",
+    "network": "Netflix",
+    "episodes": 1,
+    "director": "김성훈",
+    "cast": [
+      "전지현",
+      "박병은",
+      "김시아"
+    ],
+    "synopsis": "킹덤 스핀오프로 생사초의 비밀과 아신이라는 인물의 복수를 다룬 특별편이다.",
+    "period": "joseon-injo"
+  },
+  {
+    "id": "the-red-sleeve",
+    "title": "옷소매 붉은 끝동",
+    "titleEn": "The Red Sleeve",
+    "year": 2021,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 17,
+    "director": "정지인",
+    "cast": [
+      "이준호",
+      "이세영",
+      "이덕화",
+      "강훈"
+    ],
+    "synopsis": "조선 정조 이산과 궁녀 성덕임(의빈 성씨)의 가슴 아픈 사랑을 그린 로맨스 사극이다.",
+    "period": "joseon-jeongjo"
+  },
+  {
+    "id": "the-kings-affection",
+    "title": "연모",
+    "titleEn": "The King's Affection",
+    "year": 2021,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": 20,
+    "director": "송현욱",
+    "cast": [
+      "박은빈",
+      "로운",
+      "남윤수"
+    ],
+    "synopsis": "쌍둥이로 태어나 여자의 몸으로 왕위에 오른 공주가 자신의 정체를 숨기며 통치하는 로맨스 사극이다.",
+    "period": "joseon-general"
+  },
+  {
+    "id": "lovers-of-the-red-sky",
+    "title": "홍천기",
+    "titleEn": "Lovers of the Red Sky",
+    "year": 2021,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": 16,
+    "director": "장태유",
+    "cast": [
+      "김유정",
+      "안효섭",
+      "공명",
+      "곽시양"
+    ],
+    "synopsis": "신령한 힘을 가진 여화공 홍천기와 하늘의 별자리를 읽는 붉은 눈의 남자 하람의 판타지 로맨스 사극이다.",
+    "period": "joseon-general"
+  },
+  {
+    "id": "river-where-the-moon-rises",
+    "title": "달이 뜨는 강",
+    "titleEn": "River Where the Moon Rises",
+    "year": 2021,
+    "type": "drama",
+    "era": "고구려",
+    "network": "KBS",
+    "episodes": 20,
+    "director": "윤상호",
+    "cast": [
+      "김소현",
+      "나인우"
+    ],
+    "synopsis": "고구려 평강공주와 온달 장군의 사랑을 새롭게 재해석한 로맨스 사극이다.",
+    "period": "goguryeo"
+  },
+  {
+    "id": "bossam-steal-the-fate",
+    "title": "보쌈 - 운명을 훔치다",
+    "titleEn": "Bossam: Steal the Fate",
+    "year": 2021,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBN",
+    "episodes": 20,
+    "director": "권석장",
+    "cast": [
+      "정일우",
+      "권유리",
+      "신현수"
+    ],
+    "synopsis": "과부를 보쌈(납치혼)하여 재혼시키는 풍습을 소재로 광해군의 며느리를 실수로 보쌈하게 된 남자의 이야기이다.",
+    "period": "joseon-gwanghaegun"
+  },
+  {
+    "id": "secret-royal-inspector-joy",
+    "title": "암행어사: 조선비밀수사단",
+    "titleEn": "Secret Royal Inspector & Joy",
+    "year": 2021,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 16,
+    "director": "윤상호",
+    "cast": [
+      "옥택연",
+      "김혜윤",
+      "이이경",
+      "민진웅"
+    ],
+    "synopsis": "암행어사와 이혼 전문 여인이 함께 사건을 해결하는 코미디 사극이다.",
+    "period": "joseon-sukjong"
+  },
+  {
+    "id": "alchemy-of-souls",
+    "title": "환혼",
+    "titleEn": "Alchemy of Souls",
+    "year": 2022,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 20,
+    "director": "박준화",
+    "cast": [
+      "이재욱",
+      "정소민",
+      "황민현",
+      "고윤정"
+    ],
+    "synopsis": "가상의 대호국을 배경으로 영혼을 바꾸는 환혼술로 인해 운명이 뒤틀린 주인공들의 성장과 사랑을 그린 판타지 사극이다.",
+    "period": "joseon-gwanghaegun"
+  },
+  {
+    "id": "alchemy-of-souls-light-and-shadow",
+    "title": "환혼: 빛과 그림자",
+    "titleEn": "Alchemy of Souls: Light and Shadow",
+    "year": 2022,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 10,
+    "director": "박준화",
+    "cast": [
+      "이재욱",
+      "고윤정",
+      "황민현"
+    ],
+    "synopsis": "환혼 시즌2로 빛과 어둠의 대결 속에서 운명적 사랑을 그린 판타지 사극이다.",
+    "period": "joseon-gwanghaegun"
+  },
+  {
+    "id": "under-the-queens-umbrella",
+    "title": "슈룹",
+    "titleEn": "Under the Queen's Umbrella",
+    "year": 2022,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 16,
+    "director": "김형식",
+    "cast": [
+      "김혜수",
+      "김해숙",
+      "최원영",
+      "김의성"
+    ],
+    "synopsis": "사고뭉치 왕자들을 왕세자로 만들기 위해 분투하는 중전의 이야기를 그린 궁중 사극이다.",
+    "period": "joseon-general"
+  },
+  {
+    "id": "poong-the-joseon-psychiatrist",
+    "title": "조선 정신과 의사 유세풍",
+    "titleEn": "Poong, the Joseon Psychiatrist",
+    "year": 2022,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 12,
+    "director": "박원국",
+    "cast": [
+      "김민재",
+      "김향기",
+      "김상경"
+    ],
+    "synopsis": "천재 침술의 유세풍이 미스터리한 의원에서 조선시대 정신과 의사로 거듭나는 이야기를 그린 사극이다.",
+    "period": "joseon-sukjong"
+  },
+  {
+    "id": "poong-the-joseon-psychiatrist-2",
+    "title": "조선 정신과 의사 유세풍 2",
+    "titleEn": "Poong, the Joseon Psychiatrist 2",
+    "year": 2023,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 12,
+    "director": "박원국",
+    "cast": [
+      "김민재",
+      "김향기",
+      "김상경"
+    ],
+    "synopsis": "유세풍 시즌2로 조선시대 정신과 의사로서의 성장과 새로운 사건을 다룬 사극이다.",
+    "period": "joseon-sukjong"
+  },
+  {
+    "id": "my-dearest",
+    "title": "연인",
+    "titleEn": "My Dearest",
+    "year": 2023,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": 20,
+    "director": "김성근",
+    "cast": [
+      "남궁민",
+      "안은진",
+      "이학주",
+      "이다인"
+    ],
+    "synopsis": "병자호란을 배경으로 전쟁 속에서 서로를 찾아가는 연인의 이야기를 그린 대하 로맨스 사극이다.",
+    "period": "joseon-injo"
+  },
+  {
+    "id": "arthdal-chronicles-the-sword-of-aramun",
+    "title": "아스달 연대기: 아라문의 검",
+    "titleEn": "Arthdal Chronicles: The Sword of Aramun",
+    "year": 2023,
+    "type": "drama",
+    "era": "고대",
+    "network": "tvN",
+    "episodes": 12,
+    "director": "김광식",
+    "cast": [
+      "이준기",
+      "신세경",
+      "장동건",
+      "김옥빈"
+    ],
+    "synopsis": "아스달 연대기의 시즌2로 새로운 캐스팅과 함께 아라문의 검을 둘러싼 이야기를 그렸다.",
+    "period": "gojoseon"
+  },
+  {
+    "id": "goryeo-khitan-war",
+    "title": "고려 거란 전쟁",
+    "titleEn": "Goryeo-Khitan War",
+    "year": 2023,
+    "type": "drama",
+    "era": "고려",
+    "network": "KBS",
+    "episodes": 32,
+    "director": "김한솔",
+    "cast": [
+      "최수종",
+      "김동준",
+      "지승현"
+    ],
+    "synopsis": "공영방송 50주년 특별기획으로 고려와 거란의 여요 전쟁 2차, 3차 시기를 그린 대하사극이다.",
+    "period": "goryeo-early"
+  },
+  {
+    "id": "captivating-the-king",
+    "title": "세작, 매혹된 자들",
+    "titleEn": "Captivating the King",
+    "year": 2024,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 16,
+    "director": "조남국",
+    "cast": [
+      "조정석",
+      "신세경",
+      "이신영"
+    ],
+    "synopsis": "조선시대 세자 양위 과정의 비밀을 둘러싼 왕과 첩자(세작)의 치명적인 로맨스를 그린 사극이다.",
+    "period": "joseon-gyeongjong"
+  },
+  {
+    "id": "jeong-nyeon-the-star-is-born",
+    "title": "정년이",
+    "titleEn": "Jeong-nyeon: The Star is Born",
+    "year": 2024,
+    "type": "drama",
+    "era": "현대사",
+    "network": "tvN",
+    "episodes": 12,
+    "director": "유제원",
+    "cast": [
+      "김태리",
+      "라미란",
+      "정은채"
+    ],
+    "synopsis": "1950년대 한국전쟁 직후를 배경으로 최고의 국극 배우에 도전하는 정년이의 성장기를 그린 시대극이다.",
+    "period": "modern-liberation"
+  },
+  {
+    "id": "queen-woo",
+    "title": "원경",
+    "titleEn": "Queen Woo",
+    "year": 2025,
+    "type": "drama",
+    "era": "조선",
+    "network": "tvN",
+    "episodes": 12,
+    "director": "김상호",
+    "cast": [
+      "차주영",
+      "이현욱"
+    ],
+    "synopsis": "조선 건국기 태종 이방원의 부인 원경왕후의 이야기를 그린 사극이다.",
+    "period": "joseon-taejo"
+  },
+  {
+    "id": "drama-128",
+    "title": "이강에는 달이 흐른다",
+    "titleEn": null,
+    "year": 2025,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": null,
+    "director": null,
+    "cast": [
+      "강태오",
+      "김세정",
+      "홍수주"
+    ],
+    "synopsis": "세자 이강과 부보상 박달의 로맨스를 그린 사극이다.",
+    "period": "joseon-general"
+  },
+  {
+    "id": "haunted-palace",
+    "title": "귀궁",
+    "titleEn": "Haunted Palace",
+    "year": 2025,
+    "type": "drama",
+    "era": "조선",
+    "network": "SBS",
+    "episodes": null,
+    "director": null,
+    "cast": null,
+    "synopsis": "왕에게 원한을 품은 팔척귀와 그에 맞서 싸우는 무녀의 이야기를 그린 판타지 사극이다.",
+    "period": "joseon-general"
+  },
+  {
+    "id": "drama-130",
+    "title": "대원군 (1968)",
+    "titleEn": null,
+    "year": 1968,
+    "type": "drama",
+    "era": "구한말",
+    "network": "KBS",
+    "episodes": null,
+    "director": null,
+    "cast": null,
+    "synopsis": "구한말 흥선대원군의 정치적 삶을 그린 초창기 TV 사극이다.",
+    "period": "daehan-empire"
+  },
+  {
+    "id": "drama-131",
+    "title": "세종대왕 (1973)",
+    "titleEn": null,
+    "year": 1973,
+    "type": "drama",
+    "era": "조선",
+    "network": "KBS",
+    "episodes": null,
+    "director": null,
+    "cast": null,
+    "synopsis": "1970년대 방영된 세종대왕의 업적을 다룬 정통 사극이다.",
+    "period": "joseon-sejong"
+  },
+  {
+    "id": "drama-132",
+    "title": "인목대비",
+    "titleEn": null,
+    "year": 1974,
+    "type": "drama",
+    "era": "조선",
+    "network": "MBC",
+    "episodes": null,
+    "director": null,
+    "cast": null,
+    "synopsis": "광해군 시대 유폐된 인목대비의 이야기를 그린 1970년대 사극이다.",
+    "period": "joseon-gwanghaegun"
+  }
+]
