@@ -1,7 +1,8 @@
 import { TIMELINE } from "@/data/timeline";
 import { TimelineEraSection } from "./TimelineEraSection";
+import type { SortKey } from "@/lib/content";
 
-export function TimelineView() {
+export function TimelineView({ sort = "timeline" }: { sort?: SortKey }) {
   return (
     <div className="relative">
       {/* Vertical timeline line */}
@@ -9,7 +10,7 @@ export function TimelineView() {
 
       <ol className="relative">
         {TIMELINE.map((era) => (
-          <TimelineEraSection key={era.id} era={era} />
+          <TimelineEraSection key={era.id} era={era} sort={sort} />
         ))}
       </ol>
     </div>

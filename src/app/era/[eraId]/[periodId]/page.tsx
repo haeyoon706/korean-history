@@ -1,9 +1,11 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { TIMELINE, findPeriodById, findEraByPeriodId } from "@/data/timeline";
-import { getContentByPeriod } from "@/lib/content";
+import { getContentByPeriod, parseSortKey } from "@/lib/content";
 import { ContentGrid } from "@/components/content/ContentGrid";
+import { SortSelect } from "@/components/filter/SortSelect";
 
 export function generateStaticParams() {
   return TIMELINE.flatMap((era) =>
@@ -34,17 +36,21 @@ function formatYear(year: number): string {
 
 export default async function PeriodPage({
   params,
+  searchParams,
 }: {
   params: Promise<{ eraId: string; periodId: string }>;
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
 }) {
   const { eraId, periodId } = await params;
+  const sp = await searchParams;
   const era = findEraByPeriodId(periodId);
   const result = findPeriodById(periodId);
 
   if (!era || !result || era.id !== eraId) notFound();
 
   const { period } = result;
-  const items = getContentByPeriod(periodId);
+  const sort = parseSortKey(sp.sort as string | undefined);
+  const items = getContentByPeriod(periodId, sort);
   const movieCount = items.filter((i) => i.type === "movie").length;
   const dramaCount = items.filter((i) => i.type === "drama").length;
 
@@ -62,11 +68,18 @@ export default async function PeriodPage({
         <span className="text-foreground">{period.name}</span>
       </nav>
 
-      <h1 className="text-3xl font-bold">{period.name}</h1>
-      <p className="mt-1 text-muted">
-        {formatYear(period.startYear)} ~ {formatYear(period.endYear)} · 영화{" "}
-        {movieCount}편 · 드라마 {dramaCount}편
-      </p>
+      <div className="flex items-end justify-between gap-4">
+        <div>
+          <h1 className="text-3xl font-bold">{period.name}</h1>
+          <p className="mt-1 text-muted">
+            {formatYear(period.startYear)} ~ {formatYear(period.endYear)} ·
+            영화 {movieCount}편 · 드라마 {dramaCount}편
+          </p>
+        </div>
+        <Suspense>
+          <SortSelect current={sort} />
+        </Suspense>
+      </div>
 
       <div className="mt-8">
         <ContentGrid items={items} />

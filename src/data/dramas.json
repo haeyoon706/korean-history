@@ -15,7 +15,8 @@
       "김영란"
     ],
     "synopsis": "조선왕조 500년의 역사를 시리즈로 다룬 대하드라마. 추동궁 마마, 설중매, 파문, 임진왜란, 풍란, 대원군 등으로 구성되었다.",
-    "period": "joseon-general"
+    "period": "joseon-general",
+    "settingYear": 500
   },
   {
     "id": "the-first-republic",
@@ -33,7 +34,8 @@
       "이순재"
     ],
     "synopsis": "해방 이후 대한민국 제1공화국 시기의 정치적 격변을 그린 시대극으로 MBC 공화국 시리즈의 첫 번째 작품이다.",
-    "period": "modern-liberation"
+    "period": "modern-liberation",
+    "settingYear": 1945
   },
   {
     "id": "the-second-republic",
@@ -50,7 +52,8 @@
       "노주현"
     ],
     "synopsis": "4.19 혁명 이후 제2공화국 시기의 정치적 혼란을 그린 MBC 공화국 시리즈의 두 번째 작품이다.",
-    "period": "modern-republic"
+    "period": "modern-republic",
+    "settingYear": 1960
   },
   {
     "id": "the-third-republic",
@@ -67,7 +70,8 @@
       "이대근"
     ],
     "synopsis": "5.16 군사 쿠데타 이후 박정희 정권의 제3공화국 시기를 그린 정치 드라마이다.",
-    "period": "modern-republic"
+    "period": "modern-republic",
+    "settingYear": 1961
   },
   {
     "id": "the-fourth-republic",
@@ -84,7 +88,8 @@
       "이대근"
     ],
     "synopsis": "유신 체제 하의 제4공화국 시기를 다룬 MBC 공화국 시리즈의 네 번째 작품이다.",
-    "period": "modern-republic"
+    "period": "modern-republic",
+    "settingYear": 1972
   },
   {
     "id": "the-fifth-republic",
@@ -102,7 +107,8 @@
       "이창환"
     ],
     "synopsis": "12.12 군사 반란과 5.18 광주 민주화 운동을 포함한 전두환 정권 시기의 정치적 격변을 그린 드라마이다.",
-    "period": "modern-republic"
+    "period": "modern-republic",
+    "settingYear": 1980
   },
   {
     "id": "drama-6",
@@ -116,7 +122,8 @@
     "director": null,
     "cast": null,
     "synopsis": "KBS 대하드라마 시리즈의 첫 번째 작품으로 고려 시대를 배경으로 한 정통 사극이다.",
-    "period": "goryeo-early"
+    "period": "goryeo-early",
+    "settingYear": 918
   },
   {
     "id": "drama-7",
@@ -130,7 +137,8 @@
     "director": null,
     "cast": null,
     "synopsis": "KBS 대하드라마 시리즈의 두 번째 작품이다.",
-    "period": "joseon-general"
+    "period": "joseon-general",
+    "settingYear": 1500
   },
   {
     "id": "drama-8",
@@ -144,7 +152,8 @@
     "director": null,
     "cast": null,
     "synopsis": "조선 건국 과정을 다룬 KBS 대하드라마 시리즈의 세 번째 작품이다.",
-    "period": "joseon-taejo"
+    "period": "joseon-taejo",
+    "settingYear": 1392
   },
   {
     "id": "drama-9",
@@ -158,7 +167,8 @@
     "director": null,
     "cast": null,
     "synopsis": "구한말 독립운동을 배경으로 한 KBS 대하드라마 시리즈의 네 번째 작품이다.",
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1897
   },
   {
     "id": "drama-10",
@@ -172,7 +182,8 @@
     "director": null,
     "cast": null,
     "synopsis": "일제강점기 조선총독부의 식민 통치를 다룬 시대극이다.",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1925
   },
   {
     "id": "drama-11",
@@ -189,7 +200,8 @@
       "이덕화"
     ],
     "synopsis": "조선 철종 시대를 배경으로 권력과 운명의 소용돌이 속 인물들을 그린 대하사극이다.",
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1850
   },
   {
     "id": "drama-12",
@@ -206,7 +218,8 @@
       "서인석"
     ],
     "synopsis": "고려 시대를 배경으로 한 정통 사극 대하드라마이다.",
-    "period": "goryeo-early"
+    "period": "goryeo-early",
+    "settingYear": 918
   },
   {
     "id": "drama-13",
@@ -220,7 +233,8 @@
     "director": null,
     "cast": null,
     "synopsis": "조선 말기 흥선대원군의 정치적 삶을 그린 MBC 조선왕조오백년 시리즈의 마지막 작품이다.",
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1863
   },
   {
     "id": "drama-14",
@@ -234,7 +248,8 @@
     "director": null,
     "cast": null,
     "synopsis": "삼국시대의 역사를 다룬 KBS 대하드라마이다.",
-    "period": "goguryeo"
+    "period": "goguryeo",
+    "settingYear": -37
   },
   {
     "id": "drama-15",
@@ -250,7 +265,8 @@
       "이덕화"
     ],
     "synopsis": "조선 초기 권신 한명회의 정치적 삶을 그린 정통 사극이다.",
-    "period": "joseon-sejo"
+    "period": "joseon-sejo",
+    "settingYear": 1460
   },
   {
     "id": "sandglass",
@@ -268,7 +284,8 @@
       "박상원"
     ],
     "synopsis": "1970~80년대 격동기를 배경으로 세 남녀의 운명적 만남과 갈등을 그린 시대극이다.",
-    "period": "modern-republic"
+    "period": "modern-republic",
+    "settingYear": 1965
   },
   {
     "id": "drama-17",
@@ -284,7 +301,8 @@
       "김혜수"
     ],
     "synopsis": "연산군의 총애를 받은 희대의 요녀 장녹수의 파란만장한 삶을 그린 사극이다.",
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1500
   },
   {
     "id": "jang-hui-bin",
@@ -301,7 +319,8 @@
       "전인화"
     ],
     "synopsis": "숙종의 후궁 장희빈과 인현왕후의 치열한 궁중 암투를 그린 사극이다.",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1690
   },
   {
     "id": "drama-19",
@@ -315,7 +334,8 @@
     "director": null,
     "cast": null,
     "synopsis": "조선시대 왕실 여인들의 삶과 궁중 권력 다툼을 그린 사극이다.",
-    "period": "joseon-sejo"
+    "period": "joseon-sejo",
+    "settingYear": 1452
   },
   {
     "id": "drama-20",
@@ -329,7 +349,8 @@
     "director": null,
     "cast": null,
     "synopsis": "조선 중종 시대 개혁 정치가 조광조의 이상과 좌절을 그린 사극이다.",
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1515
   },
   {
     "id": "tears-of-the-dragon",
@@ -347,7 +368,8 @@
       "최명길"
     ],
     "synopsis": "조선 건국 과정과 태조 이성계, 태종 이방원의 권력 투쟁을 그린 대하드라마로 이환경 작가 사극 시리즈 제1부이다.",
-    "period": "joseon-taejo"
+    "period": "joseon-taejo",
+    "settingYear": 1392
   },
   {
     "id": "im-kkeok-jeong",
@@ -363,7 +385,8 @@
       "정흥채"
     ],
     "synopsis": "벽초 홍명희의 소설 원작으로 조선 명종 시대 의적 임꺽정의 삶을 그린 사극이다.",
-    "period": "joseon-injong"
+    "period": "joseon-injong",
+    "settingYear": 1550
   },
   {
     "id": "king-and-queen",
@@ -380,7 +403,8 @@
       "채시라"
     ],
     "synopsis": "조선 세조에서 성종 시대까지의 궁중 정치와 왕실 이야기를 그린 대하드라마이다.",
-    "period": "joseon-sejo"
+    "period": "joseon-sejo",
+    "settingYear": 1456
   },
   {
     "id": "heo-jun",
@@ -398,7 +422,8 @@
       "홍충민"
     ],
     "synopsis": "조선 최고의 명의 허준의 일대기를 그린 드라마로 최고 시청률 63%를 기록한 국민 드라마이다.",
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1567
   },
   {
     "id": "king-wang-geon",
@@ -416,7 +441,8 @@
       "서인석"
     ],
     "synopsis": "후삼국 시대를 배경으로 고려를 건국한 왕건의 일대기와 궁예, 견훤과의 대립을 그린 대하드라마이다.",
-    "period": "goryeo-early"
+    "period": "goryeo-early",
+    "settingYear": 918
   },
   {
     "id": "sangdo-merchants-of-joseon",
@@ -433,7 +459,8 @@
       "김현주"
     ],
     "synopsis": "조선시대 거상 임상옥의 이야기를 통해 장사의 도리와 상도를 그린 드라마이다.",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1674
   },
   {
     "id": "ladies-of-the-palace",
@@ -451,7 +478,8 @@
       "도지원"
     ],
     "synopsis": "조선 중종 시대 정난정과 문정왕후의 궁중 권력 투쟁을 그린 대하사극이다.",
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1515
   },
   {
     "id": "age-of-warriors",
@@ -469,7 +497,8 @@
       "이원종"
     ],
     "synopsis": "일제강점기와 해방기를 배경으로 시대의 야인 김두한의 일대기를 그린 드라마이다.",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1935
   },
   {
     "id": "jang-hui-bin-2",
@@ -488,7 +517,8 @@
       "박선영"
     ],
     "synopsis": "조선 숙종 시대 장희빈의 파란만장한 삶과 인현왕후와의 대립, 궁중 정치를 그린 대하 사극이다.",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1690
   },
   {
     "id": "drama-30",
@@ -502,7 +532,8 @@
     "director": null,
     "cast": null,
     "synopsis": "사상의학의 창시자 이제마의 일대기를 그린 사극이다.",
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1897
   },
   {
     "id": "damo",
@@ -520,7 +551,8 @@
       "김민준"
     ],
     "synopsis": "조선시대 여형사(다모) 채옥의 이야기를 액션과 로맨스로 그린 퓨전 사극이다.",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1674
   },
   {
     "id": "jewel-in-the-palace",
@@ -539,7 +571,8 @@
       "임호"
     ],
     "synopsis": "조선 중종 시대 최초의 여성 어의 장금의 일대기를 그린 드라마로 90개국 이상에 수출되며 한류를 이끌었다.",
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1515
   },
   {
     "id": "immortal-admiral-yi-sun-sin",
@@ -557,7 +590,8 @@
       "최재성"
     ],
     "synopsis": "임진왜란 당시 조선을 구한 성웅 이순신 장군의 일대기를 그린 대하드라마이다.",
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1592
   },
   {
     "id": "emperor-of-the-sea",
@@ -575,7 +609,8 @@
       "송일국"
     ],
     "synopsis": "통일신라 시대 해상왕 장보고의 일대기를 그린 드라마이다.",
-    "period": "silla"
+    "period": "silla",
+    "settingYear": 828
   },
   {
     "id": "shin-don",
@@ -592,7 +627,8 @@
       "서지혜"
     ],
     "synopsis": "고려 말 개혁을 추진한 승려 신돈의 이야기를 그린 사극이다.",
-    "period": "goryeo-late"
+    "period": "goryeo-late",
+    "settingYear": 1365
   },
   {
     "id": "ballad-of-seo-dong",
@@ -610,7 +646,8 @@
       "류진"
     ],
     "synopsis": "SBS 창사 15주년 기념작으로 백제 무왕(서동)과 신라 선화공주의 사랑 이야기를 그린 사극이다.",
-    "period": "baekje"
+    "period": "baekje",
+    "settingYear": -18
   },
   {
     "id": "jumong",
@@ -629,7 +666,8 @@
       "전광렬"
     ],
     "synopsis": "고구려 건국 시조 주몽의 일대기를 그린 대하드라마로 고구려 건국의 과정을 역동적으로 묘사했다.",
-    "period": "goguryeo"
+    "period": "goguryeo",
+    "settingYear": -37
   },
   {
     "id": "dae-jo-yeong",
@@ -647,7 +685,8 @@
       "박예진"
     ],
     "synopsis": "고구려 멸망 후 발해를 건국한 대조영의 일대기를 그린 대하드라마이다.",
-    "period": "balhae"
+    "period": "balhae",
+    "settingYear": 668
   },
   {
     "id": "yeon-gaesomun",
@@ -663,7 +702,8 @@
       "이태곤"
     ],
     "synopsis": "고구려의 영웅 연개소문의 일대기를 그린 대하드라마로 당나라와의 전쟁을 중심으로 전개된다.",
-    "period": "goguryeo"
+    "period": "goguryeo",
+    "settingYear": 642
   },
   {
     "id": "hwang-jini",
@@ -681,7 +721,8 @@
       "장근석"
     ],
     "synopsis": "조선 중종 시대 최고의 기생이자 예인 황진이의 예술과 사랑을 그린 드라마이다.",
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1515
   },
   {
     "id": "the-king-and-i",
@@ -699,7 +740,8 @@
       "전광렬"
     ],
     "synopsis": "조선 세조 시대 내시 김처선의 이야기를 통해 궁중 권력을 그린 사극이다.",
-    "period": "joseon-sejo"
+    "period": "joseon-sejo",
+    "settingYear": 1456
   },
   {
     "id": "yi-san",
@@ -717,7 +759,8 @@
       "이종수"
     ],
     "synopsis": "조선 제22대 왕 정조의 개혁 정치와 사도세자의 아들로서의 고뇌를 그린 대하사극이다.",
-    "period": "joseon-gyeongjong"
+    "period": "joseon-gyeongjong",
+    "settingYear": 1762
   },
   {
     "id": "the-legend",
@@ -735,7 +778,8 @@
       "이지아"
     ],
     "synopsis": "고구려 광개토태왕을 소재로 한 판타지 사극으로 사신의 전설과 함께 영웅의 이야기를 그렸다.",
-    "period": "goguryeo"
+    "period": "goguryeo",
+    "settingYear": 400
   },
   {
     "id": "iljimae",
@@ -753,7 +797,8 @@
       "박시후"
     ],
     "synopsis": "조선 인조 시대 아버지의 복수를 위해 의적 일지매가 되는 한 남자의 이야기를 그린 퓨전 사극이다.",
-    "period": "joseon-injo"
+    "period": "joseon-injo",
+    "settingYear": 1630
   },
   {
     "id": "hong-gil-dong-the-hero",
@@ -771,7 +816,8 @@
       "장근석"
     ],
     "synopsis": "조선시대 전설의 의적 홍길동의 이야기를 코미디와 액션으로 재해석한 퓨전 사극이다.",
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1494
   },
   {
     "id": "painter-of-the-wind",
@@ -789,7 +835,8 @@
       "문채원"
     ],
     "synopsis": "이정명 원작 소설을 극화한 작품으로 조선 후기 천재 화가 신윤복이 여성이라는 설정의 사극이다.",
-    "period": "joseon-jeongjo"
+    "period": "joseon-jeongjo",
+    "settingYear": 1776
   },
   {
     "id": "the-kingdom-of-the-winds",
@@ -807,7 +854,8 @@
       "최정원"
     ],
     "synopsis": "고구려 제3대 왕 대무신왕의 일대기를 그린 사극이다.",
-    "period": "goguryeo"
+    "period": "goguryeo",
+    "settingYear": 1170
   },
   {
     "id": "king-sejong-the-great",
@@ -825,7 +873,8 @@
       "이윤지"
     ],
     "synopsis": "조선 제4대 왕 세종대왕의 즉위부터 한글 창제까지의 일대기를 그린 대하드라마이다.",
-    "period": "joseon-sejong"
+    "period": "joseon-sejong",
+    "settingYear": 1443
   },
   {
     "id": "bicheonmu",
@@ -843,7 +892,8 @@
       "한은정"
     ],
     "synopsis": "고려 말을 배경으로 한 무협 로맨스 퓨전 사극이다.",
-    "period": "goryeo-late"
+    "period": "goryeo-late",
+    "settingYear": 1356
   },
   {
     "id": "the-return-of-iljimae",
@@ -861,7 +911,8 @@
       "김민종"
     ],
     "synopsis": "의적 일지매의 또 다른 이야기로 탐관오리에 맞서 싸우는 영웅의 이야기를 그렸다.",
-    "period": "joseon-injo"
+    "period": "joseon-injo",
+    "settingYear": 1623
   },
   {
     "id": "queen-seondeok",
@@ -880,7 +931,8 @@
       "김남길"
     ],
     "synopsis": "신라 최초의 여왕 선덕여왕의 파란만장한 삶과 미실과의 정치적 대립을 그린 사극이다.",
-    "period": "silla"
+    "period": "silla",
+    "settingYear": 632
   },
   {
     "id": "ja-myung-go",
@@ -898,7 +950,8 @@
       "이주현"
     ],
     "synopsis": "고구려 시대 전설의 악기 자명고를 둘러싼 이야기를 그린 사극이다.",
-    "period": "goguryeo"
+    "period": "goguryeo",
+    "settingYear": -37
   },
   {
     "id": "empress-cheonchu",
@@ -916,7 +969,8 @@
       "김석훈"
     ],
     "synopsis": "고려 시대 섭정했던 천추태후의 정치적 삶을 그린 대하사극이다.",
-    "period": "goryeo-early"
+    "period": "goryeo-early",
+    "settingYear": 1009
   },
   {
     "id": "chuno-the-slave-hunters",
@@ -935,7 +989,8 @@
       "공형진"
     ],
     "synopsis": "조선 인조 시대를 배경으로 노비 추적꾼과 도망 노비들의 이야기를 통해 신분제의 모순을 그린 퓨전 사극이다.",
-    "period": "joseon-injo"
+    "period": "joseon-injo",
+    "settingYear": 1630
   },
   {
     "id": "dong-yi",
@@ -954,7 +1009,8 @@
       "배수빈"
     ],
     "synopsis": "천민 출신으로 숙종의 후궁이 되어 영조의 생모가 된 숙빈 최씨의 일대기를 그린 사극이다.",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1690
   },
   {
     "id": "king-geunchogo",
@@ -971,7 +1027,8 @@
       "안재모"
     ],
     "synopsis": "백제의 전성기를 이끈 제13대 왕 근초고왕의 일대기를 그린 대하드라마이다.",
-    "period": "baekje"
+    "period": "baekje",
+    "settingYear": -18
   },
   {
     "id": "jejungwon",
@@ -989,7 +1046,8 @@
       "연정훈"
     ],
     "synopsis": "구한말 최초의 근대식 병원 제중원을 배경으로 한 의학 사극이다.",
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1897
   },
   {
     "id": "sungkyunkwan-scandal",
@@ -1008,7 +1066,8 @@
       "송중기"
     ],
     "synopsis": "정은궐의 소설 원작으로 남장 여자 유생이 성균관에 입학하며 벌어지는 사건을 그린 청춘 퓨전 사극이다.",
-    "period": "joseon-jeongjo"
+    "period": "joseon-jeongjo",
+    "settingYear": 1776
   },
   {
     "id": "kim-soo-ro",
@@ -1027,7 +1086,8 @@
       "배종옥"
     ],
     "synopsis": "가야의 시조 김수로왕의 일대기를 그린 사극으로 철기 문명을 중심으로 한 건국 서사이다.",
-    "period": "gaya"
+    "period": "gaya",
+    "settingYear": 42
   },
   {
     "id": "deep-rooted-tree",
@@ -1045,7 +1105,8 @@
       "신세경"
     ],
     "synopsis": "세종대왕의 한글 창제 과정과 이를 둘러싼 비밀 조직 밀본과의 대립을 그린 사극 스릴러이다.",
-    "period": "joseon-sejong"
+    "period": "joseon-sejong",
+    "settingYear": 1443
   },
   {
     "id": "king-gwanggaeto-the-great",
@@ -1063,7 +1124,8 @@
       "임호"
     ],
     "synopsis": "고구려의 전성기를 이끈 광개토대왕의 일대기를 그린 대하드라마이다.",
-    "period": "goguryeo"
+    "period": "goguryeo",
+    "settingYear": 400
   },
   {
     "id": "warrior-baek-dong-soo",
@@ -1081,7 +1143,8 @@
       "윤소이"
     ],
     "synopsis": "조선 영조-정조 시대 실존 무사 백동수의 성장과 우정, 검술의 이야기를 그린 사극이다.",
-    "period": "joseon-gyeongjong"
+    "period": "joseon-gyeongjong",
+    "settingYear": 1730
   },
   {
     "id": "the-princess-man",
@@ -1100,7 +1163,8 @@
       "송종호"
     ],
     "synopsis": "수양대군의 딸과 사육신 김종서의 아들 사이의 비극적 사랑을 그린 조선판 로미오와 줄리엣이다.",
-    "period": "joseon-sejo"
+    "period": "joseon-sejo",
+    "settingYear": 1453
   },
   {
     "id": "light-and-shadow",
@@ -1118,7 +1182,8 @@
       "이필모"
     ],
     "synopsis": "1960~80년대 한국 연예계의 빛과 그림자를 그린 시대극이다.",
-    "period": "modern-republic"
+    "period": "modern-republic",
+    "settingYear": 1965
   },
   {
     "id": "queen-insoo",
@@ -1136,7 +1201,8 @@
       "김미숙"
     ],
     "synopsis": "조선 세조~성종 시대 최고의 권력을 가진 인수대비의 일대기를 그린 사극이다.",
-    "period": "joseon-sejo"
+    "period": "joseon-sejo",
+    "settingYear": 1456
   },
   {
     "id": "the-moon-embracing-the-sun",
@@ -1154,7 +1220,8 @@
       "정일우"
     ],
     "synopsis": "정은궐 원작 소설을 극화한 작품으로, 가상의 조선 왕과 기억을 잃은 무녀가 된 여인의 운명적 사랑을 그렸다.",
-    "period": "joseon-general"
+    "period": "joseon-general",
+    "settingYear": 1500
   },
   {
     "id": "faith",
@@ -1172,7 +1239,8 @@
       "유오성"
     ],
     "synopsis": "고려 시대 무사 최영이 현대 여의사를 과거로 데려오면서 벌어지는 시간 초월 로맨스 사극이다.",
-    "period": "goryeo-late"
+    "period": "goryeo-late",
+    "settingYear": 1388
   },
   {
     "id": "god-of-war",
@@ -1190,7 +1258,8 @@
       "정보석"
     ],
     "synopsis": "팔만대장경 탄생 1000주년 기념작으로 고려 무신 정권기 김준의 삶과 대몽항쟁을 그린 대하드라마이다.",
-    "period": "goryeo-military"
+    "period": "goryeo-military",
+    "settingYear": 1170
   },
   {
     "id": "arang-and-the-magistrate",
@@ -1208,7 +1277,8 @@
       "연우진"
     ],
     "synopsis": "아랑전설을 소재로 귀신을 볼 수 있는 사또와 천방지축 귀신 아랑이 함께 사건을 풀어가는 판타지 사극이다.",
-    "period": "joseon-general"
+    "period": "joseon-general",
+    "settingYear": 1500
   },
   {
     "id": "horse-doctor",
@@ -1226,7 +1296,8 @@
       "손창민"
     ],
     "synopsis": "조선시대 말(馬) 의원에서 어의로 성장한 백광현의 이야기를 그린 사극이다.",
-    "period": "joseon-sejo"
+    "period": "joseon-sejo",
+    "settingYear": 1452
   },
   {
     "id": "the-great-seer",
@@ -1244,7 +1315,8 @@
       "김소연"
     ],
     "synopsis": "고려 말 풍수를 통해 새 왕조의 터를 찾는 이야기를 그린 사극이다.",
-    "period": "goryeo-late"
+    "period": "goryeo-late",
+    "settingYear": 1356
   },
   {
     "id": "jeon-woo-chi",
@@ -1262,7 +1334,8 @@
       "이희준"
     ],
     "synopsis": "조선시대 도술을 부리는 전우치의 이야기를 코미디와 액션으로 재해석한 퓨전 사극이다.",
-    "period": "joseon-injo"
+    "period": "joseon-injo",
+    "settingYear": 1623
   },
   {
     "id": "bridal-mask-gaksital",
@@ -1280,7 +1353,8 @@
       "박기웅"
     ],
     "synopsis": "일제강점기 가면을 쓴 독립투사 각시탈의 정체를 둘러싼 액션 사극이다.",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1925
   },
   {
     "id": "the-kings-dream",
@@ -1298,7 +1372,8 @@
       "홍수현"
     ],
     "synopsis": "신라 태종무열왕 김춘추의 삼국통일 대업을 그린 KBS 대하드라마이다.",
-    "period": "silla"
+    "period": "silla",
+    "settingYear": 654
   },
   {
     "id": "empress-ki",
@@ -1317,7 +1392,8 @@
       "백진희"
     ],
     "synopsis": "고려 출신으로 원나라 황후가 된 기황후의 파란만장한 삶을 그린 대하 퓨전 사극이다.",
-    "period": "goryeo-mongol"
+    "period": "goryeo-mongol",
+    "settingYear": 1320
   },
   {
     "id": "the-fugitive-of-joseon",
@@ -1335,7 +1411,8 @@
       "김유빈"
     ],
     "synopsis": "조선시대 딸을 살리기 위해 도주하는 어의의 이야기를 그린 액션 퓨전 사극이다.",
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1567
   },
   {
     "id": "jeong-do-jeon",
@@ -1353,7 +1430,8 @@
       "임호"
     ],
     "synopsis": "고려 말 혁명가이자 조선 건국의 설계자인 삼봉 정도전의 삶과 이상을 그린 정통 사극이다.",
-    "period": "joseon-taejo"
+    "period": "joseon-taejo",
+    "settingYear": 1392
   },
   {
     "id": "the-kings-face",
@@ -1372,7 +1450,8 @@
       "신성록"
     ],
     "synopsis": "관상학을 소재로 한 조선 선조와 광해군의 정치적 갈등을 그린 사극이다.",
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1585
   },
   {
     "id": "the-night-watchmans-journal",
@@ -1391,7 +1470,8 @@
       "서예지"
     ],
     "synopsis": "조선시대 귀신을 퇴치하는 야경꾼들의 이야기를 그린 판타지 사극이다.",
-    "period": "joseon-general"
+    "period": "joseon-general",
+    "settingYear": 1500
   },
   {
     "id": "joseon-gunman",
@@ -1409,7 +1489,8 @@
       "전혜빈"
     ],
     "synopsis": "구한말 조선을 배경으로 총을 든 무사의 이야기를 그린 액션 사극이다.",
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1897
   },
   {
     "id": "secret-door",
@@ -1427,7 +1508,8 @@
       "김유정"
     ],
     "synopsis": "영조와 사도세자의 비극적 부자 관계를 미스터리 스릴러로 재해석한 사극이다.",
-    "period": "joseon-gyeongjong"
+    "period": "joseon-gyeongjong",
+    "settingYear": 1730
   },
   {
     "id": "the-three-musketeers",
@@ -1446,7 +1528,8 @@
       "정해인"
     ],
     "synopsis": "조선 인조 시대를 배경으로 세자와 세 명의 무사가 벌이는 모험을 그린 퓨전 사극이다.",
-    "period": "joseon-injo"
+    "period": "joseon-injo",
+    "settingYear": 1630
   },
   {
     "id": "hwajung",
@@ -1465,7 +1548,8 @@
       "서강준"
     ],
     "synopsis": "선조의 유일한 적녀 정명공주의 파란만장한 삶과 광해군과의 정치적 대립을 그린 대하사극이다.",
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1585
   },
   {
     "id": "six-flying-dragons",
@@ -1486,7 +1570,8 @@
       "천호진"
     ],
     "synopsis": "고려 말에서 조선 건국기를 배경으로 이방원, 정도전 등 여섯 영웅의 이야기를 그린 뿌리깊은 나무의 프리퀄이다.",
-    "period": "joseon-taejo"
+    "period": "joseon-taejo",
+    "settingYear": 1392
   },
   {
     "id": "scholar-who-walks-the-night",
@@ -1505,7 +1590,8 @@
       "이수혁"
     ],
     "synopsis": "뱀파이어가 된 조선시대 선비와 남장 여인의 사랑을 그린 판타지 퓨전 사극이다.",
-    "period": "joseon-general"
+    "period": "joseon-general",
+    "settingYear": 1500
   },
   {
     "id": "love-in-the-moonlight",
@@ -1524,7 +1610,8 @@
       "정진영"
     ],
     "synopsis": "남장 여자가 세자의 내시가 되면서 벌어지는 궁중 로맨스를 그린 퓨전 사극이다.",
-    "period": "joseon-general"
+    "period": "joseon-general",
+    "settingYear": 1500
   },
   {
     "id": "moon-lovers-scarlet-heart-ryeo",
@@ -1545,7 +1632,8 @@
       "남주혁"
     ],
     "synopsis": "현대 여성이 고려 시대로 타임슬립하여 왕자들과 얽히는 로맨스 사극으로 중국 소설 보보경심의 한국판이다.",
-    "period": "goryeo-early"
+    "period": "goryeo-early",
+    "settingYear": 918
   },
   {
     "id": "flower-in-prison",
@@ -1564,7 +1652,8 @@
       "정준호"
     ],
     "synopsis": "감옥에서 태어나 자란 여인 옥녀가 조선 명종 시대 최고의 여걸이 되는 이야기를 그린 사극이다.",
-    "period": "joseon-injong"
+    "period": "joseon-injong",
+    "settingYear": 1550
   },
   {
     "id": "hwarang-the-poet-warrior-youth",
@@ -1584,7 +1673,8 @@
       "민호"
     ],
     "synopsis": "신라 진흥왕 시대 화랑도의 청춘과 우정, 사랑을 그린 퓨전 사극이다.",
-    "period": "silla"
+    "period": "silla",
+    "settingYear": 540
   },
   {
     "id": "jang-yeong-sil",
@@ -1602,7 +1692,8 @@
       "서현진"
     ],
     "synopsis": "조선 세종 시대 천재 발명가 장영실의 삶과 업적을 그린 사극이다.",
-    "period": "joseon-sejong"
+    "period": "joseon-sejong",
+    "settingYear": 1443
   },
   {
     "id": "jackpot-the-royal-gambler",
@@ -1621,7 +1712,8 @@
       "임지연"
     ],
     "synopsis": "숙종의 숨겨진 아들이 도박의 천재로 성장해 권력에 맞서는 이야기를 그린 퓨전 사극이다.",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1690
   },
   {
     "id": "rebel-thief-who-stole-the-people",
@@ -1641,7 +1733,8 @@
       "김상중"
     ],
     "synopsis": "연산군 시대 민중의 영웅 홍길동의 이야기를 새롭게 재해석한 퓨전 사극이다.",
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1500
   },
   {
     "id": "queen-for-seven-days",
@@ -1659,7 +1752,8 @@
       "이동건"
     ],
     "synopsis": "7일 만에 폐위된 비운의 왕비 단경왕후와 중종, 연산군의 삼각 로맨스를 그린 사극이다.",
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1500
   },
   {
     "id": "the-king-loves",
@@ -1677,7 +1771,8 @@
       "홍종현"
     ],
     "synopsis": "고려 충선왕 시대를 배경으로 왕세자와 그의 친구, 한 여인의 사랑과 우정을 그린 사극이다.",
-    "period": "goryeo-mongol"
+    "period": "goryeo-mongol",
+    "settingYear": 1320
   },
   {
     "id": "ruler-master-of-the-mask",
@@ -1696,7 +1791,8 @@
       "윤소희"
     ],
     "synopsis": "가면 뒤에 숨은 왕과 진짜 왕의 정체를 둘러싼 권력 다툼을 그린 퓨전 사극이다.",
-    "period": "joseon-gwanghaegun"
+    "period": "joseon-gwanghaegun",
+    "settingYear": 1608
   },
   {
     "id": "100-days-my-prince",
@@ -1714,7 +1810,8 @@
       "김선호"
     ],
     "synopsis": "기억을 잃은 세자가 시골 마을에서 100일간 평민으로 살며 사랑을 찾는 로맨스 사극이다.",
-    "period": "joseon-gwanghaegun"
+    "period": "joseon-gwanghaegun",
+    "settingYear": 1608
   },
   {
     "id": "mr-sunshine",
@@ -1734,7 +1831,8 @@
       "변요한"
     ],
     "synopsis": "신미양요 때 미국으로 건너간 노비 출신 소년이 미 해병대 장교가 되어 구한말 조선으로 돌아와 의병 활동을 하는 양반 가문의 여인과 사랑에 빠지는 이야기이다.",
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1897
   },
   {
     "id": "kingdom",
@@ -1753,7 +1851,8 @@
       "김상호"
     ],
     "synopsis": "조선시대를 배경으로 좀비 역병이 창궐하는 가운데 왕세자가 비밀을 파헤치는 사극 스릴러이다. 시즌1(6화)과 시즌2(6화)로 구성.",
-    "period": "joseon-injo"
+    "period": "joseon-injo",
+    "settingYear": 1623
   },
   {
     "id": "haechi",
@@ -1772,7 +1871,8 @@
       "박훈"
     ],
     "synopsis": "천한 무수리의 아들 연잉군(영조)이 박문수, 여지, 달문과 함께 대권을 쟁취하고 사헌부 개혁을 이루는 이야기이다.",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1730
   },
   {
     "id": "nokdu-flower",
@@ -1790,7 +1890,8 @@
       "한예리"
     ],
     "synopsis": "1894년 동학 농민 운동을 배경으로 서로 다른 길을 걷는 이복형제의 이야기를 그린 사극이다.",
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1894
   },
   {
     "id": "the-crowned-clown",
@@ -1808,7 +1909,8 @@
       "김상경"
     ],
     "synopsis": "암살 위협에 시달리는 왕을 대신해 닮은꼴 광대가 왕 노릇을 하게 되는 궁중 로맨스 사극이다.",
-    "period": "joseon-gwanghaegun"
+    "period": "joseon-gwanghaegun",
+    "settingYear": 1608
   },
   {
     "id": "my-country-the-new-age",
@@ -1827,7 +1929,8 @@
       "장혁"
     ],
     "synopsis": "고려 말 조선 건국기를 배경으로 서로 다른 길을 걷게 된 두 친구의 우정과 배신을 그린 사극이다.",
-    "period": "joseon-taejo"
+    "period": "joseon-taejo",
+    "settingYear": 1392
   },
   {
     "id": "arthdal-chronicles",
@@ -1846,7 +1949,8 @@
       "김옥빈"
     ],
     "synopsis": "태고의 땅 아스에서 서로 다른 전설을 써가는 영웅들의 운명적 이야기를 그린 판타지 사극이다.",
-    "period": "gojoseon"
+    "period": "gojoseon",
+    "settingYear": -2333
   },
   {
     "id": "the-tale-of-nokdu",
@@ -1864,7 +1968,8 @@
       "강태오"
     ],
     "synopsis": "여인들만 사는 과부촌에 여장을 하고 숨어든 남자 녹두의 이야기를 그린 로맨스 퓨전 사극이다.",
-    "period": "joseon-gwanghaegun"
+    "period": "joseon-gwanghaegun",
+    "settingYear": 1608
   },
   {
     "id": "flower-crew-joseon-marriage-agency",
@@ -1883,7 +1988,8 @@
       "박지훈"
     ],
     "synopsis": "조선시대 혼담을 주선하는 청년들의 이야기를 그린 퓨전 로맨스 사극이다.",
-    "period": "joseon-gwanghaegun"
+    "period": "joseon-gwanghaegun",
+    "settingYear": 1608
   },
   {
     "id": "queen-love-and-war",
@@ -1901,7 +2007,8 @@
       "이열음"
     ],
     "synopsis": "조선시대 왕비 간택 과정을 둘러싼 여인들의 치열한 암투를 그린 사극이다.",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1674
   },
   {
     "id": "mr-queen",
@@ -1920,7 +2027,8 @@
       "김태우"
     ],
     "synopsis": "현대 남성 셰프의 영혼이 조선시대 철종의 왕비 몸에 빙의되면서 벌어지는 코미디 퓨전 사극이다.",
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1850
   },
   {
     "id": "secret-royal-inspector",
@@ -1938,7 +2046,8 @@
       "이이경"
     ],
     "synopsis": "암행어사로 발탁된 청년이 벌이는 좌충우돌 수사극을 그린 퓨전 사극이다.",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1674
   },
   {
     "id": "king-maker-the-change-of-destiny",
@@ -1956,7 +2065,8 @@
       "전광렬"
     ],
     "synopsis": "조선 철종 시대를 배경으로 관상과 풍수를 이용한 왕 만들기를 그린 사극의 리메이크작이다.",
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1850
   },
   {
     "id": "kingdom-ashin-of-the-north",
@@ -1974,7 +2084,8 @@
       "김시아"
     ],
     "synopsis": "킹덤 스핀오프로 생사초의 비밀과 아신이라는 인물의 복수를 다룬 특별편이다.",
-    "period": "joseon-injo"
+    "period": "joseon-injo",
+    "settingYear": 1623
   },
   {
     "id": "the-red-sleeve",
@@ -1993,7 +2104,8 @@
       "강훈"
     ],
     "synopsis": "조선 정조 이산과 궁녀 성덕임(의빈 성씨)의 가슴 아픈 사랑을 그린 로맨스 사극이다.",
-    "period": "joseon-jeongjo"
+    "period": "joseon-jeongjo",
+    "settingYear": 1780
   },
   {
     "id": "the-kings-affection",
@@ -2011,7 +2123,8 @@
       "남윤수"
     ],
     "synopsis": "쌍둥이로 태어나 여자의 몸으로 왕위에 오른 공주가 자신의 정체를 숨기며 통치하는 로맨스 사극이다.",
-    "period": "joseon-general"
+    "period": "joseon-general",
+    "settingYear": 1500
   },
   {
     "id": "lovers-of-the-red-sky",
@@ -2030,7 +2143,8 @@
       "곽시양"
     ],
     "synopsis": "신령한 힘을 가진 여화공 홍천기와 하늘의 별자리를 읽는 붉은 눈의 남자 하람의 판타지 로맨스 사극이다.",
-    "period": "joseon-general"
+    "period": "joseon-general",
+    "settingYear": 1500
   },
   {
     "id": "river-where-the-moon-rises",
@@ -2047,7 +2161,8 @@
       "나인우"
     ],
     "synopsis": "고구려 평강공주와 온달 장군의 사랑을 새롭게 재해석한 로맨스 사극이다.",
-    "period": "goguryeo"
+    "period": "goguryeo",
+    "settingYear": -37
   },
   {
     "id": "bossam-steal-the-fate",
@@ -2065,7 +2180,8 @@
       "신현수"
     ],
     "synopsis": "과부를 보쌈(납치혼)하여 재혼시키는 풍습을 소재로 광해군의 며느리를 실수로 보쌈하게 된 남자의 이야기이다.",
-    "period": "joseon-gwanghaegun"
+    "period": "joseon-gwanghaegun",
+    "settingYear": 1615
   },
   {
     "id": "secret-royal-inspector-joy",
@@ -2084,7 +2200,8 @@
       "민진웅"
     ],
     "synopsis": "암행어사와 이혼 전문 여인이 함께 사건을 해결하는 코미디 사극이다.",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1674
   },
   {
     "id": "alchemy-of-souls",
@@ -2103,7 +2220,8 @@
       "고윤정"
     ],
     "synopsis": "가상의 대호국을 배경으로 영혼을 바꾸는 환혼술로 인해 운명이 뒤틀린 주인공들의 성장과 사랑을 그린 판타지 사극이다.",
-    "period": "joseon-gwanghaegun"
+    "period": "joseon-gwanghaegun",
+    "settingYear": 1608
   },
   {
     "id": "alchemy-of-souls-light-and-shadow",
@@ -2121,7 +2239,8 @@
       "황민현"
     ],
     "synopsis": "환혼 시즌2로 빛과 어둠의 대결 속에서 운명적 사랑을 그린 판타지 사극이다.",
-    "period": "joseon-gwanghaegun"
+    "period": "joseon-gwanghaegun",
+    "settingYear": 1608
   },
   {
     "id": "under-the-queens-umbrella",
@@ -2140,7 +2259,8 @@
       "김의성"
     ],
     "synopsis": "사고뭉치 왕자들을 왕세자로 만들기 위해 분투하는 중전의 이야기를 그린 궁중 사극이다.",
-    "period": "joseon-general"
+    "period": "joseon-general",
+    "settingYear": 1500
   },
   {
     "id": "poong-the-joseon-psychiatrist",
@@ -2158,7 +2278,8 @@
       "김상경"
     ],
     "synopsis": "천재 침술의 유세풍이 미스터리한 의원에서 조선시대 정신과 의사로 거듭나는 이야기를 그린 사극이다.",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1674
   },
   {
     "id": "poong-the-joseon-psychiatrist-2",
@@ -2176,7 +2297,8 @@
       "김상경"
     ],
     "synopsis": "유세풍 시즌2로 조선시대 정신과 의사로서의 성장과 새로운 사건을 다룬 사극이다.",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1674
   },
   {
     "id": "my-dearest",
@@ -2195,7 +2317,8 @@
       "이다인"
     ],
     "synopsis": "병자호란을 배경으로 전쟁 속에서 서로를 찾아가는 연인의 이야기를 그린 대하 로맨스 사극이다.",
-    "period": "joseon-injo"
+    "period": "joseon-injo",
+    "settingYear": 1636
   },
   {
     "id": "arthdal-chronicles-the-sword-of-aramun",
@@ -2214,7 +2337,8 @@
       "김옥빈"
     ],
     "synopsis": "아스달 연대기의 시즌2로 새로운 캐스팅과 함께 아라문의 검을 둘러싼 이야기를 그렸다.",
-    "period": "gojoseon"
+    "period": "gojoseon",
+    "settingYear": -2333
   },
   {
     "id": "goryeo-khitan-war",
@@ -2232,7 +2356,8 @@
       "지승현"
     ],
     "synopsis": "공영방송 50주년 특별기획으로 고려와 거란의 여요 전쟁 2차, 3차 시기를 그린 대하사극이다.",
-    "period": "goryeo-early"
+    "period": "goryeo-early",
+    "settingYear": 1018
   },
   {
     "id": "captivating-the-king",
@@ -2250,7 +2375,8 @@
       "이신영"
     ],
     "synopsis": "조선시대 세자 양위 과정의 비밀을 둘러싼 왕과 첩자(세작)의 치명적인 로맨스를 그린 사극이다.",
-    "period": "joseon-gyeongjong"
+    "period": "joseon-gyeongjong",
+    "settingYear": 1720
   },
   {
     "id": "jeong-nyeon-the-star-is-born",
@@ -2268,7 +2394,8 @@
       "정은채"
     ],
     "synopsis": "1950년대 한국전쟁 직후를 배경으로 최고의 국극 배우에 도전하는 정년이의 성장기를 그린 시대극이다.",
-    "period": "modern-liberation"
+    "period": "modern-liberation",
+    "settingYear": 1950
   },
   {
     "id": "queen-woo",
@@ -2285,7 +2412,8 @@
       "이현욱"
     ],
     "synopsis": "조선 건국기 태종 이방원의 부인 원경왕후의 이야기를 그린 사극이다.",
-    "period": "joseon-taejo"
+    "period": "joseon-taejo",
+    "settingYear": 1392
   },
   {
     "id": "drama-128",
@@ -2303,7 +2431,8 @@
       "홍수주"
     ],
     "synopsis": "세자 이강과 부보상 박달의 로맨스를 그린 사극이다.",
-    "period": "joseon-general"
+    "period": "joseon-general",
+    "settingYear": 1500
   },
   {
     "id": "haunted-palace",
@@ -2317,7 +2446,8 @@
     "director": null,
     "cast": null,
     "synopsis": "왕에게 원한을 품은 팔척귀와 그에 맞서 싸우는 무녀의 이야기를 그린 판타지 사극이다.",
-    "period": "joseon-general"
+    "period": "joseon-general",
+    "settingYear": 1500
   },
   {
     "id": "drama-130",
@@ -2331,7 +2461,8 @@
     "director": null,
     "cast": null,
     "synopsis": "구한말 흥선대원군의 정치적 삶을 그린 초창기 TV 사극이다.",
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1863
   },
   {
     "id": "drama-131",
@@ -2345,7 +2476,8 @@
     "director": null,
     "cast": null,
     "synopsis": "1970년대 방영된 세종대왕의 업적을 다룬 정통 사극이다.",
-    "period": "joseon-sejong"
+    "period": "joseon-sejong",
+    "settingYear": 1443
   },
   {
     "id": "drama-132",
@@ -2359,6 +2491,7 @@
     "director": null,
     "cast": null,
     "synopsis": "광해군 시대 유폐된 인목대비의 이야기를 그린 1970년대 사극이다.",
-    "period": "joseon-gwanghaegun"
+    "period": "joseon-gwanghaegun",
+    "settingYear": 1615
   }
 ]

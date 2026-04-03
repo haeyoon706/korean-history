@@ -1,9 +1,11 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { TIMELINE, findEraById } from "@/data/timeline";
-import { getContentByPeriod, getContentByEra } from "@/lib/content";
+import { getContentByPeriod, getContentByEra, parseSortKey } from "@/lib/content";
 import { ContentGrid } from "@/components/content/ContentGrid";
+import { SortSelect } from "@/components/filter/SortSelect";
 
 export function generateStaticParams() {
   return TIMELINE.map((era) => ({ eraId: era.id }));
@@ -32,14 +34,18 @@ function formatYear(year: number): string {
 
 export default async function EraPage({
   params,
+  searchParams,
 }: {
   params: Promise<{ eraId: string }>;
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
 }) {
   const { eraId } = await params;
+  const sp = await searchParams;
   const era = findEraById(eraId);
   if (!era) notFound();
 
-  const totalItems = getContentByEra(eraId);
+  const sort = parseSortKey(sp.sort as string | undefined);
+  const totalItems = getContentByEra(eraId, sort);
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-8">
@@ -51,15 +57,22 @@ export default async function EraPage({
         <span className="text-foreground">{era.name}</span>
       </nav>
 
-      <h1 className="text-3xl font-bold">{era.name}</h1>
-      <p className="mt-1 text-muted">
-        {formatYear(era.startYear)} ~ {formatYear(era.endYear)} · 총{" "}
-        {totalItems.length}편
-      </p>
+      <div className="flex items-end justify-between gap-4">
+        <div>
+          <h1 className="text-3xl font-bold">{era.name}</h1>
+          <p className="mt-1 text-muted">
+            {formatYear(era.startYear)} ~ {formatYear(era.endYear)} · 총{" "}
+            {totalItems.length}편
+          </p>
+        </div>
+        <Suspense>
+          <SortSelect current={sort} />
+        </Suspense>
+      </div>
 
       <div className="mt-8 space-y-12">
         {era.periods.map((period) => {
-          const items = getContentByPeriod(period.id);
+          const items = getContentByPeriod(period.id, sort);
           if (items.length === 0) return null;
 
           return (

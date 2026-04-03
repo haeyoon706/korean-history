@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Era } from "@/data/timeline";
-import { getContentByPeriod } from "@/lib/content";
+import { getContentByPeriod, type SortKey } from "@/lib/content";
 import { ContentCard } from "@/components/content/ContentCard";
 
 const ERA_COLOR_MAP: Record<string, string> = {
@@ -19,7 +19,13 @@ function formatYear(year: number): string {
   return `${year}`;
 }
 
-export function TimelineEraSection({ era }: { era: Era }) {
+export function TimelineEraSection({
+  era,
+  sort = "timeline",
+}: {
+  era: Era;
+  sort?: SortKey;
+}) {
   const colorClass = ERA_COLOR_MAP[era.id] ?? "bg-muted";
 
   return (
@@ -47,9 +53,11 @@ export function TimelineEraSection({ era }: { era: Era }) {
       {/* Periods */}
       <div className="space-y-8">
         {era.periods
-          .filter((p) => p.id !== `${era.id}-general` && p.id !== "joseon-general")
+          .filter(
+            (p) => p.id !== `${era.id}-general` && p.id !== "joseon-general"
+          )
           .map((period) => {
-            const items = getContentByPeriod(period.id);
+            const items = getContentByPeriod(period.id, sort);
             if (items.length === 0) return null;
 
             const preview = items.slice(0, 3);
@@ -92,40 +100,41 @@ export function TimelineEraSection({ era }: { era: Era }) {
           })}
 
         {/* joseon-general 항목 (시기 미상) */}
-        {era.id === "joseon" && (() => {
-          const generalItems = getContentByPeriod("joseon-general");
-          if (generalItems.length === 0) return null;
-          const preview = generalItems.slice(0, 3);
-          const remaining = generalItems.length - preview.length;
-          return (
-            <div>
-              <Link
-                href={`/era/joseon/joseon-general`}
-                className="group mb-3 inline-flex items-baseline gap-2"
-              >
-                <h3 className="text-base font-semibold group-hover:underline">
-                  시기 미상
-                </h3>
-                <span className="rounded-full bg-card px-2 py-0.5 text-xs text-muted">
-                  {generalItems.length}편
-                </span>
-              </Link>
-              <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-                {preview.map((item) => (
-                  <ContentCard key={item.id} item={item} />
-                ))}
-              </div>
-              {remaining > 0 && (
+        {era.id === "joseon" &&
+          (() => {
+            const generalItems = getContentByPeriod("joseon-general", sort);
+            if (generalItems.length === 0) return null;
+            const preview = generalItems.slice(0, 3);
+            const remaining = generalItems.length - preview.length;
+            return (
+              <div>
                 <Link
                   href={`/era/joseon/joseon-general`}
-                  className="mt-2 inline-block text-sm text-blue-600 hover:underline dark:text-blue-400"
+                  className="group mb-3 inline-flex items-baseline gap-2"
                 >
-                  +{remaining}편 더 보기
+                  <h3 className="text-base font-semibold group-hover:underline">
+                    시기 미상
+                  </h3>
+                  <span className="rounded-full bg-card px-2 py-0.5 text-xs text-muted">
+                    {generalItems.length}편
+                  </span>
                 </Link>
-              )}
-            </div>
-          );
-        })()}
+                <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+                  {preview.map((item) => (
+                    <ContentCard key={item.id} item={item} />
+                  ))}
+                </div>
+                {remaining > 0 && (
+                  <Link
+                    href={`/era/joseon/joseon-general`}
+                    className="mt-2 inline-block text-sm text-blue-600 hover:underline dark:text-blue-400"
+                  >
+                    +{remaining}편 더 보기
+                  </Link>
+                )}
+              </div>
+            );
+          })()}
       </div>
     </li>
   );

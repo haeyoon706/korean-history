@@ -26,6 +26,15 @@ export function ContentDetail({ item }: { item: Content }) {
       <p className="mt-4 leading-relaxed">{item.synopsis}</p>
 
       <dl className="mt-8 space-y-3 text-sm">
+        <div className="flex gap-3">
+          <dt className="w-20 shrink-0 font-medium text-muted">배경</dt>
+          <dd>
+            {item.settingYear < 0
+              ? `BC ${Math.abs(item.settingYear)}년`
+              : `${item.settingYear}년`}
+          </dd>
+        </div>
+
         {periodInfo && (
           <div className="flex gap-3">
             <dt className="w-20 shrink-0 font-medium text-muted">시대</dt>

@@ -16,7 +16,8 @@
     ],
     "synopsis": "1597년 임진왜란 당시, 이순신 장군이 단 12척의 배로 330척의 왜군에 맞서 명량해전에서 기적적인 승리를 이끌어낸 실화를 다룬 영화.",
     "boxOffice": "17,615,843명",
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1597
   },
   {
     "id": "the-man-who-lives-with-the-king",
@@ -35,7 +36,8 @@
     ],
     "synopsis": "폐위된 단종 이홍위가 유배지인 강원도 영월 광천골에서 마을 사람들과 어울리며 인생의 마지막 시기를 보내는 이야기. 호장 엄흥도와의 우정을 그린다.",
     "boxOffice": "15,676,534명",
-    "period": "joseon-sejo"
+    "period": "joseon-sejo",
+    "settingYear": 1453
   },
   {
     "id": "assassination",
@@ -54,7 +56,8 @@
     ],
     "synopsis": "1933년 일제강점기, 독립군 저격수 안옥윤과 동료들이 친일파 암살 작전을 수행하면서 벌어지는 첩보 액션극.",
     "boxOffice": "12,706,815명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1933
   },
   {
     "id": "masquerade",
@@ -72,7 +75,8 @@
     ],
     "synopsis": "광해군과 똑같이 생긴 광대 하선이 왕의 대역을 맡게 되면서, 진정한 왕의 자질이 무엇인지를 보여주는 이야기.",
     "boxOffice": "12,319,542명",
-    "period": "joseon-gwanghaegun"
+    "period": "joseon-gwanghaegun",
+    "settingYear": 1615
   },
   {
     "id": "the-king-and-the-clown",
@@ -90,7 +94,8 @@
     ],
     "synopsis": "조선시대 연산군 시절, 광대 장생과 공길이 궁에 들어가 왕 앞에서 공연을 하게 되면서 벌어지는 비극적인 이야기.",
     "boxOffice": "12,302,831명",
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1500
   },
   {
     "id": "a-taxi-driver",
@@ -108,7 +113,8 @@
     ],
     "synopsis": "1980년 5.18 광주민주화운동 당시, 서울 택시기사 김만섭이 독일 기자를 태우고 광주에 가면서 역사의 현장을 목격하게 되는 실화 기반 영화.",
     "boxOffice": "12,186,684명",
-    "period": "modern-republic"
+    "period": "modern-republic",
+    "settingYear": 1980
   },
   {
     "id": "exhuma",
@@ -126,7 +132,8 @@
     ],
     "synopsis": "풍수사와 무당이 의문의 묘를 파묘하면서 일제강점기와 연결된 거대한 악의 실체와 마주하게 되는 오컬트 미스터리.",
     "boxOffice": "11,912,394명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1925
   },
   {
     "id": "the-face-reader",
@@ -145,7 +152,8 @@
     ],
     "synopsis": "조선시대 천재 관상가 내경이 수양대군의 야심을 관상으로 읽어내고, 역사의 소용돌이에 휘말리는 이야기.",
     "boxOffice": "9,135,806명",
-    "period": "joseon-sejo"
+    "period": "joseon-sejo",
+    "settingYear": 1453
   },
   {
     "id": "the-pirates",
@@ -164,7 +172,8 @@
     ],
     "synopsis": "조선 건국기, 명나라 황제가 보낸 국새가 고래에게 삼켜지자 이를 되찾기 위해 해적과 산적이 바다에서 벌이는 모험 활극.",
     "boxOffice": "8,666,046명",
-    "period": "joseon-taejo"
+    "period": "joseon-taejo",
+    "settingYear": 1392
   },
   {
     "id": "the-age-of-shadows",
@@ -183,7 +192,8 @@
     ],
     "synopsis": "1920년대 일제강점기, 의열단의 폭탄 반입 작전과 이를 저지하려는 일본 경찰, 그 사이에서 갈등하는 조선인 경찰의 이야기.",
     "boxOffice": "7,500,420명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1920
   },
   {
     "id": "war-of-the-arrows",
@@ -201,7 +211,8 @@
     ],
     "synopsis": "1636년 병자호란 당시, 청나라에 끌려가는 여동생을 구하기 위해 천재 궁수 남이가 활 하나로 적진에 뛰어드는 이야기.",
     "boxOffice": "7,470,633명",
-    "period": "joseon-injo"
+    "period": "joseon-injo",
+    "settingYear": 1636
   },
   {
     "id": "hansan-rising-dragon",
@@ -220,7 +231,8 @@
     ],
     "synopsis": "1592년 임진왜란 당시 이순신 장군이 학익진 전법으로 한산도 대첩에서 왜군을 크게 무찌른 해전을 그린 영화.",
     "boxOffice": "7,260,000명",
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1592
   },
   {
     "id": "1987-when-the-day-comes",
@@ -240,7 +252,8 @@
     ],
     "synopsis": "1987년 박종철 고문치사 사건부터 6월 민주항쟁까지, 민주주의를 위해 싸운 평범한 사람들의 이야기.",
     "boxOffice": "7,232,387명",
-    "period": "modern-democracy"
+    "period": "modern-democracy",
+    "settingYear": 1987
   },
   {
     "id": "the-good-the-bad-the-weird",
@@ -257,7 +270,8 @@
     ],
     "synopsis": "1930년대 만주를 배경으로, 세 명의 총잡이가 보물 지도를 두고 벌이는 추격전을 그린 액션 웨스턴 영화.",
     "boxOffice": "6,686,000명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1930
   },
   {
     "id": "the-battleship-island",
@@ -275,7 +289,8 @@
     ],
     "synopsis": "일제강점기 일본 군함도(하시마 섬)에 강제 징용된 조선인들이 목숨을 걸고 탈출을 시도하는 이야기.",
     "boxOffice": "6,592,151명",
-    "period": "japanese-war"
+    "period": "japanese-war",
+    "settingYear": 1943
   },
   {
     "id": "the-throne",
@@ -293,7 +308,8 @@
     ],
     "synopsis": "아들을 뒤주에 가둬 죽인 아버지 영조와 사도세자 사이의 비극적인 갈등과 처절한 부자 관계를 그린 영화.",
     "boxOffice": "6,247,000명",
-    "period": "joseon-gyeongjong"
+    "period": "joseon-gyeongjong",
+    "settingYear": 1730
   },
   {
     "id": "jeon-woo-chi-the-taoist-wizard",
@@ -311,7 +327,8 @@
     ],
     "synopsis": "조선시대 도술을 부리는 도사 전우치가 요괴들의 음모를 막기 위해 현대로 소환되어 벌이는 판타지 액션.",
     "boxOffice": "6,136,000명",
-    "period": "joseon-injo"
+    "period": "joseon-injo",
+    "settingYear": 1623
   },
   {
     "id": "the-last-princess",
@@ -328,7 +345,8 @@
     ],
     "synopsis": "조선의 마지막 황녀 덕혜옹주가 일본에 끌려가 고난의 삶을 살면서도 조국으로 돌아오려는 처절한 이야기.",
     "boxOffice": "5,600,000명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1925
   },
   {
     "id": "the-great-battle",
@@ -347,7 +365,8 @@
     ],
     "synopsis": "645년 당태종이 이끄는 20만 대군에 맞서 안시성 성주 양만춘이 88일간 성을 지켜낸 고구려 안시성 전투를 그린 영화.",
     "boxOffice": "5,441,000명",
-    "period": "goguryeo"
+    "period": "goguryeo",
+    "settingYear": 645
   },
   {
     "id": "harbin",
@@ -367,7 +386,8 @@
     ],
     "synopsis": "1909년 하얼빈에서 이토 히로부미를 저격한 안중근 의사의 마지막 작전과 독립운동가들의 이야기를 그린 영화.",
     "boxOffice": "4,910,000명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1909
   },
   {
     "id": "the-battle-roar-to-victory",
@@ -384,7 +404,8 @@
     ],
     "synopsis": "1920년 만주 봉오동에서 홍범도, 최진동이 이끄는 독립군이 일본군을 상대로 대승을 거둔 봉오동 전투를 그린 영화.",
     "boxOffice": "4,790,000명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1920
   },
   {
     "id": "kundo-age-of-the-rampant",
@@ -403,7 +424,8 @@
     ],
     "synopsis": "조선 철종 시대, 탐관오리의 수탈에 맞서 의적떼 군도가 민중을 위해 싸우는 이야기.",
     "boxOffice": "4,771,000명",
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1850
   },
   {
     "id": "detective-k-secret-of-the-virtuous-widow",
@@ -420,7 +442,8 @@
     ],
     "synopsis": "조선시대 명탐정 김민이 연쇄 살인 사건의 배후를 추적하면서 거대한 비밀을 파헤치는 코믹 사극 추리 영화.",
     "boxOffice": "4,780,000명",
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1800
   },
   {
     "id": "noryang-deadly-sea",
@@ -438,7 +461,8 @@
     ],
     "synopsis": "1598년 임진왜란의 마지막 전투인 노량 해전에서 이순신 장군이 전사하는 비장한 최후의 전투를 그린 영화.",
     "boxOffice": "4,500,000명",
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1598
   },
   {
     "id": "the-handmaiden",
@@ -456,7 +480,8 @@
     ],
     "synopsis": "일제강점기 1930년대, 일본인 상속녀의 재산을 노리는 사기꾼과 하녀로 위장한 소매치기 소녀의 교차하는 음모와 욕망을 그린 영화.",
     "boxOffice": "4,292,000명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1930
   },
   {
     "id": "the-fatal-encounter",
@@ -474,7 +499,8 @@
     ],
     "synopsis": "즉위 후 끊임없는 암살 위협에 시달리는 정조가 운명의 하루를 맞이하며 반대 세력과 목숨을 건 대결을 벌이는 이야기.",
     "boxOffice": "3,849,700명",
-    "period": "joseon-jeongjo"
+    "period": "joseon-jeongjo",
+    "settingYear": 1780
   },
   {
     "id": "detective-k-secret-of-the-lost-island",
@@ -491,7 +517,8 @@
     ],
     "synopsis": "명탐정 김민과 서필 콤비가 사라진 노비의 딸을 찾으며 숨겨진 보물과 음모를 파헤치는 코믹 사극.",
     "boxOffice": "3,870,000명",
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1800
   },
   {
     "id": "the-fortress",
@@ -509,7 +536,8 @@
     ],
     "synopsis": "1636년 병자호란 당시 남한산성에 고립된 인조와 신하들이 항전과 항복 사이에서 갈등하는 47일간의 이야기.",
     "boxOffice": "3,830,000명",
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1636
   },
   {
     "id": "divine-weapon",
@@ -527,7 +555,8 @@
     ],
     "synopsis": "조선 세종 시대, 대명나라의 위협에 맞서기 위해 비밀 무기 '신기전'을 개발하는 과정을 그린 영화.",
     "boxOffice": "3,810,000명",
-    "period": "joseon-sejong"
+    "period": "joseon-sejong",
+    "settingYear": 1443
   },
   {
     "id": "a-frozen-flower",
@@ -544,7 +573,8 @@
     ],
     "synopsis": "고려 말기, 왕과 호위무사 홍림, 왕비 사이의 금지된 삼각관계를 그린 영화.",
     "boxOffice": "3,781,000명",
-    "period": "goryeo-late"
+    "period": "goryeo-late",
+    "settingYear": 1370
   },
   {
     "id": "spirits-homecoming",
@@ -560,7 +590,8 @@
     ],
     "synopsis": "일본군 위안부로 끌려간 소녀들의 아픔과 그들의 영혼이 고향으로 돌아오기를 바라는 이야기를 담은 영화.",
     "boxOffice": "3,580,000명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1940
   },
   {
     "id": "untold-scandal",
@@ -577,7 +608,8 @@
     ],
     "synopsis": "프랑스 소설 '위험한 관계'를 조선시대로 옮긴 작품으로, 양반 사회의 욕망과 유혹을 관능적으로 그린 영화.",
     "boxOffice": "3,522,747명",
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1674
   },
   {
     "id": "hero",
@@ -596,7 +628,8 @@
     ],
     "synopsis": "안중근 의사의 마지막 1년을 뮤지컬 형식으로 그려낸 영화. 동명 창작 뮤지컬을 원작으로 한다.",
     "boxOffice": "3,277,150명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1909
   },
   {
     "id": "mal-mo-e-the-secret-mission",
@@ -612,7 +645,8 @@
     ],
     "synopsis": "일제강점기 조선어학회 회원들이 우리말 사전을 만들기 위해 전국의 말을 모으는 비밀 프로젝트를 그린 영화.",
     "boxOffice": "2,800,000명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1940
   },
   {
     "id": "once-upon-a-time-in-a-battlefield",
@@ -630,7 +664,8 @@
     ],
     "synopsis": "660년 백제와 신라의 운명을 건 황산벌 전투를 블랙코미디 형식으로 풀어낸 사극 영화.",
     "boxOffice": "2,780,000명",
-    "period": "baekje"
+    "period": "baekje",
+    "settingYear": 660
   },
   {
     "id": "chihwaseon",
@@ -648,7 +683,8 @@
     ],
     "synopsis": "조선 말기 천재 화가 장승업의 파란만장한 삶과 예술혼을 그린 영화. 칸 영화제 감독상 수상작.",
     "boxOffice": "2,600,000명",
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1870
   },
   {
     "id": "anarchist-from-colony",
@@ -665,7 +701,8 @@
     ],
     "synopsis": "1923년 관동대지진 이후 일제의 조선인 학살을 은폐하려는 음모에 맞선 무정부주의자 박열과 연인 후미코의 실화를 그린 영화.",
     "boxOffice": "2,359,204명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1923
   },
   {
     "id": "the-tiger-an-old-hunters-tale",
@@ -682,7 +719,8 @@
     ],
     "synopsis": "일제강점기 지리산, 조선의 마지막 호랑이를 잡으려는 일본군과 산신령으로 불리는 늙은 포수의 대결을 그린 영화.",
     "boxOffice": "1,780,000명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1925
   },
   {
     "id": "dongju-the-portrait-of-a-poet",
@@ -698,7 +736,8 @@
     ],
     "synopsis": "일제강점기 시인 윤동주와 사촌 송몽규의 이야기를 흑백 영상으로 담아낸 영화. 두 청년의 독립에 대한 열망과 문학적 저항을 그린다.",
     "boxOffice": "1,170,000명",
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1941
   },
   {
     "id": "a-resistance",
@@ -715,7 +754,8 @@
     ],
     "synopsis": "1919년 3.1운동 이후 서대문 형무소에 수감된 유관순 열사가 옥중에서도 굴하지 않고 저항한 이야기.",
     "boxOffice": "1,158,000명",
-    "period": "japanese-early"
+    "period": "japanese-early",
+    "settingYear": 1919
   },
   {
     "id": "seopyeonje",
@@ -732,7 +772,8 @@
     ],
     "synopsis": "떠돌이 판소리 명창 아버지와 자식들의 한 많은 삶을 통해 한국 전통 예술의 정신을 그린 영화.",
     "boxOffice": "1,035,741명",
-    "period": "modern-republic"
+    "period": "modern-republic",
+    "settingYear": 1965
   },
   {
     "id": "musa-the-warrior",
@@ -751,7 +792,8 @@
     ],
     "synopsis": "고려 말, 명나라에 사신으로 갔다가 사막에 버려진 고려 무사들이 원나라에 잡힌 명나라 공주를 구출하며 고국으로 돌아가려는 여정을 그린 대작.",
     "boxOffice": null,
-    "period": "goryeo-mongol"
+    "period": "goryeo-mongol",
+    "settingYear": 1270
   },
   {
     "id": "memories-of-the-sword",
@@ -768,7 +810,8 @@
     ],
     "synopsis": "고려시대를 배경으로, 서로 다른 뜻을 품은 세 검객의 엇갈린 운명과 복수를 그린 무협 액션 영화.",
     "boxOffice": null,
-    "period": "goryeo-early"
+    "period": "goryeo-early",
+    "settingYear": 918
   },
   {
     "id": "chunhyang",
@@ -785,7 +828,8 @@
     ],
     "synopsis": "한국 고전 소설 춘향전을 판소리와 함께 영화화한 작품으로, 춘향과 몽룡의 사랑 이야기를 담았다. 칸 영화제 경쟁 부문 최초 진출 한국 영화.",
     "boxOffice": null,
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1700
   },
   {
     "id": "the-swordsman",
@@ -802,7 +846,8 @@
     ],
     "synopsis": "1639년 병자호란 이후, 시력을 잃어가는 조선 최고의 검객이 청나라에 끌려간 딸을 구하기 위해 칼을 드는 이야기.",
     "boxOffice": null,
-    "period": "joseon-injo"
+    "period": "joseon-injo",
+    "settingYear": 1639
   },
   {
     "id": "warriors-of-the-dawn",
@@ -819,7 +864,8 @@
     ],
     "synopsis": "임진왜란 당시 의주로 파천하는 광해군을 호위하는 대립군(대신 군역을 서는 사람들)의 이야기.",
     "boxOffice": null,
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1592
   },
   {
     "id": "battlefield-heroes",
@@ -837,7 +883,8 @@
     ],
     "synopsis": "668년 고구려 평양성 전투와 고구려의 멸망을 다룬 영화로, 황산벌의 후속작.",
     "boxOffice": null,
-    "period": "baekje"
+    "period": "baekje",
+    "settingYear": 668
   },
   {
     "id": "the-kings-letters",
@@ -854,7 +901,8 @@
     ],
     "synopsis": "세종대왕과 신미대사가 함께 한글을 창제하는 과정에서의 비화를 다룬 영화.",
     "boxOffice": null,
-    "period": "joseon-sejong"
+    "period": "joseon-sejong",
+    "settingYear": 1443
   },
   {
     "id": "forbidden-dream",
@@ -870,7 +918,8 @@
     ],
     "synopsis": "세종대왕과 천재 과학자 장영실 사이의 신분을 초월한 우정과 갈등, 그리고 조선의 과학 발전을 그린 영화.",
     "boxOffice": null,
-    "period": "joseon-sejong"
+    "period": "joseon-sejong",
+    "settingYear": 1443
   },
   {
     "id": "the-book-of-fish",
@@ -888,7 +937,8 @@
     ],
     "synopsis": "흑산도에 유배된 정약전이 섬의 어부 창대와 함께 물고기 백과사전 '자산어보'를 집필하는 과정을 그린 영화.",
     "boxOffice": null,
-    "period": "joseon-jeongjo"
+    "period": "joseon-jeongjo",
+    "settingYear": 1801
   },
   {
     "id": "heung-boo-the-revolutionist",
@@ -905,7 +955,8 @@
     ],
     "synopsis": "조선 후기 광대 흥부가 양반 놀부의 횡포에 맞서 글과 이야기의 힘으로 세상을 바꾸려는 이야기.",
     "boxOffice": null,
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1800
   },
   {
     "id": "rampant",
@@ -922,7 +973,8 @@
     ],
     "synopsis": "조선시대에 좀비와 같은 야귀가 창궐하는 가운데, 왕세자 이청이 나라를 구하기 위해 싸우는 액션 사극.",
     "boxOffice": null,
-    "period": "joseon-gwanghaegun"
+    "period": "joseon-gwanghaegun",
+    "settingYear": 1608
   },
   {
     "id": "monstrum",
@@ -940,7 +992,8 @@
     ],
     "synopsis": "조선 중종 시대, 도성에 나타난 정체 모를 괴물 '물괴'의 진실을 파헤치는 이야기.",
     "boxOffice": null,
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1515
   },
   {
     "id": "the-princess-and-the-matchmaker",
@@ -958,7 +1011,8 @@
     ],
     "synopsis": "조선시대 공주의 남편감을 궁합으로 정해야 하는 상황에서 벌어지는 로맨틱 코미디 사극.",
     "boxOffice": null,
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1800
   },
   {
     "id": "detective-k-secret-of-the-living-dead",
@@ -975,7 +1029,8 @@
     ],
     "synopsis": "조선 시대에 나타난 흡혈귀 살인사건을 조사하는 명탐정 김민과 서필의 세 번째 모험.",
     "boxOffice": null,
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1800
   },
   {
     "id": "jesters-the-game-changers",
@@ -992,7 +1047,8 @@
     ],
     "synopsis": "조선시대 광대패가 왕의 밀명을 받아 여론을 조작하는 비밀 공작에 투입되면서 벌어지는 이야기.",
     "boxOffice": null,
-    "period": "joseon-gwanghaegun"
+    "period": "joseon-gwanghaegun",
+    "settingYear": 1608
   },
   {
     "id": "shadowless-sword",
@@ -1009,7 +1065,8 @@
     ],
     "synopsis": "발해를 멸망시키려는 거란군에 맞서 마지막 왕자를 찾아 나라를 되살리려는 검객의 이야기.",
     "boxOffice": null,
-    "period": "balhae"
+    "period": "balhae",
+    "settingYear": 1018
   },
   {
     "id": "hwang-jin-yi",
@@ -1026,7 +1083,8 @@
     ],
     "synopsis": "조선 최고의 기생 황진이의 예술적 재능과 사랑을 그린 영화.",
     "boxOffice": null,
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1494
   },
   {
     "id": "the-pirates-the-last-royal-treasure",
@@ -1045,7 +1103,8 @@
     ],
     "synopsis": "조선 건국 초기, 사라진 고려 왕실의 보물을 찾기 위해 해적과 산적이 뭉치는 모험 활극.",
     "boxOffice": null,
-    "period": "joseon-taejo"
+    "period": "joseon-taejo",
+    "settingYear": 1392
   },
   {
     "id": "the-servant",
@@ -1063,7 +1122,8 @@
     ],
     "synopsis": "춘향전을 방자의 시점에서 재해석한 작품으로, 신분을 초월한 사랑과 욕망을 그린 영화.",
     "boxOffice": null,
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1700
   },
   {
     "id": "forbidden-quest",
@@ -1079,7 +1139,8 @@
     ],
     "synopsis": "조선시대 춘화와 음란소설을 쓰는 선비의 이야기를 통해 예술과 권력의 관계를 그린 영화.",
     "boxOffice": null,
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1674
   },
   {
     "id": "the-grand-heist",
@@ -1097,7 +1158,8 @@
     ],
     "synopsis": "조선시대 얼음 창고의 얼음을 훔치려는 도적들의 통쾌한 작전을 그린 코미디 사극.",
     "boxOffice": null,
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1800
   },
   {
     "id": "the-huntresses",
@@ -1114,7 +1176,8 @@
     ],
     "synopsis": "조선시대 세 명의 여성 밀정이 나라를 구하기 위해 활약하는 액션 코미디 사극.",
     "boxOffice": null,
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1800
   },
   {
     "id": "the-magician",
@@ -1131,7 +1194,8 @@
     ],
     "synopsis": "조선시대 천재 마술사가 궁궐에 들어가면서 벌어지는 로맨스와 음모를 그린 영화.",
     "boxOffice": null,
-    "period": "joseon-sunjo"
+    "period": "joseon-sunjo",
+    "settingYear": 1800
   },
   {
     "id": "heavens-soldiers",
@@ -1149,7 +1213,8 @@
     ],
     "synopsis": "남북한 군인들이 타임슬립하여 조선시대 임진왜란 시기로 가서 이순신 장군과 함께 싸우는 SF 사극.",
     "boxOffice": null,
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1592
   },
   {
     "id": "generals-son",
@@ -1165,7 +1230,8 @@
     ],
     "synopsis": "일제강점기 종로를 배경으로 실존 인물 김두한의 주먹 세계와 항일 활동을 그린 액션 영화.",
     "boxOffice": null,
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1935
   },
   {
     "id": "generals-son-2",
@@ -1181,7 +1247,8 @@
     ],
     "synopsis": "김두한이 종로 일대를 평정하고 일본 야쿠자와 대결하는 후속편.",
     "boxOffice": null,
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1935
   },
   {
     "id": "generals-son-3",
@@ -1197,7 +1264,8 @@
     ],
     "synopsis": "김두한의 항일 투쟁과 해방 직전까지의 이야기를 담은 시리즈 마지막 편.",
     "boxOffice": null,
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1935
   },
   {
     "id": "anarchists",
@@ -1215,7 +1283,8 @@
     ],
     "synopsis": "1920년대 상해를 배경으로 독립운동에 투신한 조선 청년 아나키스트들의 이상과 좌절을 그린 영화.",
     "boxOffice": null,
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1920
   },
   {
     "id": "love-lies",
@@ -1232,7 +1301,8 @@
     ],
     "synopsis": "일제강점기 경성을 배경으로, 두 기생의 우정과 사랑, 배신을 그린 멜로 영화.",
     "boxOffice": null,
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1925
   },
   {
     "id": "blue-swallow",
@@ -1248,7 +1318,8 @@
     ],
     "synopsis": "일제강점기 한국 최초의 여성 비행사 박경원의 삶과 꿈을 그린 영화.",
     "boxOffice": null,
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1925
   },
   {
     "id": "modern-boy",
@@ -1264,7 +1335,8 @@
     ],
     "synopsis": "1930년대 경성을 배경으로, 향락을 즐기던 모던보이가 독립운동가 여성을 만나 변화하는 이야기.",
     "boxOffice": null,
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1930
   },
   {
     "id": "my-way",
@@ -1281,7 +1353,8 @@
     ],
     "synopsis": "일제강점기부터 제2차 세계대전까지, 한국인과 일본인 두 남자가 전쟁터를 떠돌며 펼치는 라이벌 드라마.",
     "boxOffice": null,
-    "period": "japanese-war"
+    "period": "japanese-war",
+    "settingYear": 1940
   },
   {
     "id": "race-to-freedom-um-bok-dong",
@@ -1298,7 +1371,8 @@
     ],
     "synopsis": "일제강점기 조선 최고의 자전거 영웅 엄복동이 자전거 대회에서 일본 선수를 이기며 민족의 자긍심을 높이는 이야기.",
     "boxOffice": null,
-    "period": "japanese-war"
+    "period": "japanese-war",
+    "settingYear": 1693
   },
   {
     "id": "2009-lost-memories",
@@ -1314,7 +1388,8 @@
     ],
     "synopsis": "안중근의 이토 히로부미 저격이 실패한 대체 역사 세계에서, 일본의 식민지로 남은 한국을 그린 SF 액션 영화.",
     "boxOffice": null,
-    "period": "japanese-march"
+    "period": "japanese-march",
+    "settingYear": 1909
   },
   {
     "id": "ymca-baseball-team",
@@ -1331,7 +1406,8 @@
     ],
     "synopsis": "1905년 을사늑약 직전의 조선을 배경으로, YMCA에서 최초의 야구단을 창단하는 이야기.",
     "boxOffice": null,
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1905
   },
   {
     "id": "movie-76",
@@ -1348,7 +1424,8 @@
     ],
     "synopsis": "청년 시절 김구가 치하포에서 일본군 장교를 처단하고 감옥에서 인생의 전환점을 맞이하는 이야기.",
     "boxOffice": null,
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1897
   },
   {
     "id": "thomas-ahn-jung-geun",
@@ -1363,7 +1440,8 @@
     ],
     "synopsis": "안중근 의사가 이토 히로부미를 저격하기까지의 과정과 재판을 그린 영화.",
     "boxOffice": null,
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1909
   },
   {
     "id": "the-sword-with-no-name",
@@ -1379,7 +1457,8 @@
     ],
     "synopsis": "구한말 명성황후와 그녀를 지키려는 무명검객의 비운의 사랑 이야기.",
     "boxOffice": null,
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1895
   },
   {
     "id": "gabi",
@@ -1396,7 +1475,8 @@
     ],
     "synopsis": "구한말 러시아 공사관으로 피신한 고종 황제를 독살하려는 음모와 이를 막으려는 이들의 이야기.",
     "boxOffice": null,
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1880
   },
   {
     "id": "private-eye",
@@ -1413,7 +1493,8 @@
     ],
     "synopsis": "1910년대 경성을 배경으로, 사설 탐정이 의문의 살인 사건을 추적하는 추리극.",
     "boxOffice": null,
-    "period": "daehan-empire"
+    "period": "daehan-empire",
+    "settingYear": 1910
   },
   {
     "id": "seong-chun-hyang",
@@ -1429,7 +1510,8 @@
     ],
     "synopsis": "신상옥 감독이 춘향전을 영화화한 작품으로, 한국 최초의 시네마스코프 영화. 당시 서울 인구의 1/3이 관람한 기록적 흥행작.",
     "boxOffice": null,
-    "period": "joseon-sukjong"
+    "period": "joseon-sukjong",
+    "settingYear": 1700
   },
   {
     "id": "prince-yeonsan",
@@ -1445,7 +1527,8 @@
     ],
     "synopsis": "조선 폭군 연산군의 광기와 폭정을 그린 정통 사극 영화.",
     "boxOffice": null,
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1500
   },
   {
     "id": "tyrant-yeonsan",
@@ -1461,7 +1544,8 @@
     ],
     "synopsis": "연산군의 후속작으로, 연산군의 몰락과 중종반정을 다룬 영화.",
     "boxOffice": null,
-    "period": "joseon-yeonsangun"
+    "period": "joseon-yeonsangun",
+    "settingYear": 1500
   },
   {
     "id": "movie-84",
@@ -1474,7 +1558,8 @@
     "cast": null,
     "synopsis": "영조와 사도세자의 비극적인 부자 관계를 다룬 1950년대 사극 영화.",
     "boxOffice": null,
-    "period": "joseon-gyeongjong"
+    "period": "joseon-gyeongjong",
+    "settingYear": 1730
   },
   {
     "id": "movie-85",
@@ -1489,7 +1574,8 @@
     ],
     "synopsis": "충무공 이순신 장군의 활약을 그린 정통 사극 영화.",
     "boxOffice": null,
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1597
   },
   {
     "id": "movie-86",
@@ -1504,6 +1590,7 @@
     ],
     "synopsis": "이순신 장군의 난중일기를 바탕으로 임진왜란 시기의 활약상을 그린 영화.",
     "boxOffice": null,
-    "period": "joseon-seonjo"
+    "period": "joseon-seonjo",
+    "settingYear": 1592
   }
 ]

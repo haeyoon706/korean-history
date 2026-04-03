@@ -1,6 +1,11 @@
 import Link from "next/link";
 import type { Content } from "@/types/content";
 
+function formatSettingYear(year: number): string {
+  if (year < 0) return `BC ${Math.abs(year)}년`;
+  return `${year}년`;
+}
+
 export function ContentCard({ item }: { item: Content }) {
   const isMovie = item.type === "movie";
 
@@ -18,6 +23,10 @@ export function ContentCard({ item }: { item: Content }) {
           {isMovie ? "영화" : "드라마"}
         </span>
         <span className="text-xs text-muted">{item.year}</span>
+        <span className="text-xs text-muted">·</span>
+        <span className="text-xs font-medium text-foreground/70">
+          배경 {formatSettingYear(item.settingYear)}
+        </span>
       </div>
 
       <h3 className="font-bold leading-snug group-hover:text-blue-600 dark:group-hover:text-blue-400">

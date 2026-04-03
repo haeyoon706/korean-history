@@ -23,6 +23,7 @@ export type Movie = {
   type: "movie";
   era: HistoricalEra;
   period: string;
+  settingYear: number;
   director: string;
   cast: string[] | null;
   synopsis: string;
@@ -37,6 +38,7 @@ export type Drama = {
   type: "drama";
   era: HistoricalEra;
   period: string;
+  settingYear: number;
   network: string;
   episodes: number | null;
   director: string | null;
