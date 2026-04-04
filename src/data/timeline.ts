@@ -81,7 +81,7 @@ export const TIMELINE: Era[] = [
     id: "joseon",
     name: "조선",
     startYear: 1392,
-    endYear: 1897,
+    endYear: 1910,
     color: "#1A237E",
     periods: [
       {
@@ -164,15 +164,15 @@ export const TIMELINE: Era[] = [
       },
       {
         id: "joseon-gojong",
-        name: "고종",
+        name: "고종 (구한말)",
         startYear: 1863,
-        endYear: 1897,
+        endYear: 1910,
       },
       {
         id: "joseon-general",
         name: "시기 미상",
         startYear: 1392,
-        endYear: 1897,
+        endYear: 1910,
       },
     ],
   },

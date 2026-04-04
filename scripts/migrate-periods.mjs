@@ -16,7 +16,7 @@ const ERA_TO_PERIOD = {
   가야: "gaya",
   발해: "balhae",
   고려: "goryeo-early", // default, will refine
-  구한말: "daehan-empire",
+  구한말: "joseon-gojong",
   일제강점기: "japanese-march", // default, will refine
   현대사: "modern-republic", // default, will refine
 };
@@ -368,10 +368,10 @@ const TITLE_OVERRIDES = {
   "서편제": "modern-republic",
   "정년이": "modern-liberation",
   // 구한말
-  "제중원": "daehan-empire",
-  "녹두꽃": "daehan-empire",
-  "미스터 션샤인": "daehan-empire",
-  "조선 거너": "daehan-empire",
+  "제중원": "joseon-gojong",
+  "녹두꽃": "joseon-gojong",
+  "미스터 션샤인": "joseon-gojong",
+  "조선 거너": "joseon-gojong",
   // 아스달 연대기 - 가상 고대
   "아스달 연대기": "gojoseon",
   "아스달 연대기: 아라문의 검": "gojoseon",
